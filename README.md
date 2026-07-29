@@ -81,6 +81,10 @@ python .\tools\generate_hardsub_ass_from_tsv.py .\translations\video_subtitles.t
 tools\build_hardsub_bik.py
 ```
 
+## 已知限制
+
+- 目标名单界面底部显示的人名和部分德语军衔疑似由 `rayne1.exe` 硬编码或专用逻辑绘制，不在当前可导入的 TSV/POD 文本范围内；目标完成提示、任务说明和常规文本已汉化。
+
 ## 发布前事项
 
 - 给本项目选择并提交明确的开源许可证，例如 `LICENSE`。
