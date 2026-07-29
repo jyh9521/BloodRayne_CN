@@ -1,4 +1,4 @@
-# BloodRayne Terminal Cut 简体中文汉化
+# 《BloodRayne: Terminal Cut》（吸血莱恩：终极剪辑版）简体中文汉化包
 
 这是《BloodRayne: Terminal Cut》简体中文汉化的源码包。目标是：本地删除项目工作文件后，只要有一份干净的游戏安装目录，就能从 GitHub 克隆本仓库并重新构建可发布的汉化目录。
 
