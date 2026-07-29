@@ -289,7 +289,7 @@ AR_GH_SLAVE.TXT	85	voice	soldier-ambient-joke-1-21.wav	Soldier1	It's a joke.	当
 AR_GH_SLAVE.TXT	86	voice	soldier-ambient-joke-2-11.wav	Soldier2	Oh ja, I heard that one before.	哦，对，我以前听过。	
 AR_GH_SLAVE.TXT	87	voice	soldier-ambient-joke-1-22.wav	Soldier1	Wha-?	什——？	
 AR_GH_SLAVE.TXT	90	hud	ost_officerdown		Hauptmann Braun Mekay Eliminated.	已消灭布劳恩·梅凯上尉	
-AR_GH_SLAVE.TXT	92	hud	ost_Elite1		Elite soldiers can block your blade and harpoon attacks. You can identify them by their uniforms. Weaken them or attack from behind to feed on them.	精锐士兵可以格挡刀刃和鱼叉攻击，你可以通过制服辨认他们。先削弱他们，或从背后下手，才能吸食他们。	
+AR_GH_SLAVE.TXT	92	hud	ost_Elite1		Elite soldiers can block your blade and harpoon attacks. You can identify them by their uniforms. Weaken them or attack from behind to feed on them.	精锐士兵可以格挡刀刃和鱼叉攻击，你可以通过制服辨认他们。\n先削弱他们，或从背后下手，才能吸食他们。	
 AR_GH_SLAVE.TXT	94	hud	ObjectiveRecOfficer		Eliminate Officer	消灭军官	
 AR_GH_SLAVE.TXT	95	hud	ObjectiveToScienceLab		Go to the Science Lab through the Basement.	经地下室前往科学实验室	
 AR_GH_SLAVE.TXT	96	hud	ObjectiveSearch		Seek out targets in other areas.	前往其他区域搜寻目标	
@@ -350,9 +350,9 @@ AR_GH_SUBBAY.TXT	62	hud	ObjectiveSub3		Eliminate Lieutenant-Commander Timitheus 
 AR_GH_SUBBAY.TXT	63	hud	ObjectiveToScienceLab		Go to the Science Lab through the Basement.	经地下室前往科学实验室	
 AR_GH_SUBBAY.TXT	64	hud	ObjectiveSearch		Seek out targets in other areas.	前往其他区域搜寻目标	
 AR_GH_SUBBAY.TXT	65	hud	ObjectiveFindTurnkey		Search an officer to find a basement turnkey.	搜查军官，寻找地下室钥匙	
-AR_GH_SUBBAY.TXT	67	hud	introVo1		Argentina Coast, 1938 - Mission briefing: A splinter group of Germany's Nationalist party, the Nazis, has become obsessed with retrieving legendary artifacts of great power, in particular, the skull of a fabled and ancient demon, Beliar.	阿根廷海岸，1938年 - 任务简报：德国民族主义政党的一个分裂派系：纳粹，沉迷于搜寻传说中威力无穷的遗物，尤其是远古恶魔贝利亚的头骨。	
-AR_GH_SUBBAY.TXT	68	hud	introVo2		They believe the Skull lies buried deep in Argentina, and have constructed a fortress there, complete with a U-boat station and mining facility. BloodRayne, we cannot allow the Nazis to gain possession of the Skull of Beliar.	他们相信头骨深埋在阿根廷，于是在那里修建了一座要塞，其中包括潜艇基地和采矿设施。莱恩，绝不能让纳粹拿到贝利亚之颅。	
-AR_GH_SUBBAY.TXT	69	hud	introVo3		There are three officers in command of the Nazi U-boat station. You can identify them by their uniforms. Infiltrate the station and execute them.	纳粹潜艇基地由三名军官共同指挥，你可以通过制服辨认他们。潜入基地，处决这三人。	
+AR_GH_SUBBAY.TXT	67	hud	introVo1		Argentina Coast, 1938 - Mission briefing: A splinter group of Germany's Nationalist party, the Nazis, has become obsessed with retrieving legendary artifacts of great power, in particular, the skull of a fabled and ancient demon, Beliar.	阿根廷海岸，1938年\n任务简报：德国民族主义政党的一个分裂派系：\n纳粹，沉迷于搜寻传说中威力无穷的遗物，尤其是远古恶魔贝利亚的头骨。	
+AR_GH_SUBBAY.TXT	68	hud	introVo2		They believe the Skull lies buried deep in Argentina, and have constructed a fortress there, complete with a U-boat station and mining facility. BloodRayne, we cannot allow the Nazis to gain possession of the Skull of Beliar.	他们相信头骨深埋在阿根廷，\n于是在那里修建了一座要塞，其中包括潜艇基地和采矿设施。\n莱恩，绝不能让纳粹拿到贝利亚之颅。	
+AR_GH_SUBBAY.TXT	69	hud	introVo3		There are three officers in command of the Nazi U-boat station. You can identify them by their uniforms. Infiltrate the station and execute them.	纳粹潜艇基地由三名军官共同指挥，你可以通过制服辨认他们。\n潜入基地，处决这三人。	
 AR_GH_WRECKED.TXT	0	hud	MissionDescription		Walls of Jericho	耶利哥之墙	
 AR_GH_WRECKED.TXT	2	voice	a2s16_soldier1_2.wav	Soldier1			
 AR_GH_WRECKED.TXT	3	voice	a2s16_Soldier2_3.wav	Soldier2	Soldier: Oh God!  It hurts!  It hurts!	士兵：上帝啊！疼死我了！疼死我了！	
@@ -590,9 +590,9 @@ AR_MINE_NORTH.TXT	32	voice	a2s14_Mineofficer5.wav	Officer	Officer: Die!	军官�
 AR_MINE_NORTH.TXT	33	voice	a2s14_rayne8.wav	$	Rayne: I need his detonator.	莱恩：我需要他的起爆器。	
 AR_MINE_NORTH.TXT	34	voice	a2s14_rayne9.wav	$	Rayne: Got the detonator.	莱恩：起爆器到手。	
 AR_MINE_NORTH.TXT	35	voice	a2s14_rayne10.wav	$	Rayne: Now where would a girl find some demolition charges?	莱恩：接下来，一个姑娘该上哪儿找爆破炸药呢？	
-AR_MINE_NORTH.TXT	37	hud	demoIntro1		Argentina Mine, 1938 - Mission Briefing: Digging for the mythical Skull of Beliar, the Nazis have uncovered something else.  Something much, much worse: ancient parasitic life forms that feed on, and take complete control over their human hosts.	阿根廷矿井，1938年 - 任务简报：纳粹在挖掘传说中的贝利亚之颅时，还挖出了别的东西，一种糟糕得多的东西：古老的寄生生物。它们以人类为食，还能彻底控制宿主。	
+AR_MINE_NORTH.TXT	37	hud	demoIntro1		Argentina Mine, 1938 - Mission Briefing: Digging for the mythical Skull of Beliar, the Nazis have uncovered something else.  Something much, much worse: ancient parasitic life forms that feed on, and take complete control over their human hosts.	阿根廷矿井，1938年\n任务简报：\n纳粹在挖掘传说中的贝利亚之颅时，还挖出了别的东西，\n一种糟糕得多的东西：古老的寄生生物。\n它们以人类为食，还能彻底控制宿主。	
 AR_MINE_NORTH.TXT	38	hud	demoIntro2		BloodRayne, you must scout deeper into the mining facility to discover the source of these parasites.	莱恩，你必须深入矿区，查出这些寄生生物的源头。	
-AR_MINE_NORTH.TXT	39	hud	demoIntro3		The mineshafts are heavily secured.  You'll need to find the Nazi munitions officer in the Northern Sector, kill him, and take the detonator he carries. Then find the right explosives to secure deeper access into the mines.	矿井戒备森严。先找到北区的纳粹军火官，杀掉他，拿走他身上的起爆器。然后找到合适的炸药，炸开通往矿井深处的道路。	
+AR_MINE_NORTH.TXT	39	hud	demoIntro3		The mineshafts are heavily secured.  You'll need to find the Nazi munitions officer in the Northern Sector, kill him, and take the detonator he carries. Then find the right explosives to secure deeper access into the mines.	矿井戒备森严。\n先找到北区的纳粹军火官，杀掉他，拿走他身上的起爆器。\n然后找到合适的炸药，炸开通往矿井深处的道路。	
 AR_MINE_NORTH.TXT	41	hud	ObjectiveFindExplosive		Find explosives.	寻找炸药	
 AR_MINE_NORTH.TXT	42	hud	ObjectiveFindDetonator		Find detonator.	寻找起爆器	
 AR_MINE_NORTH.TXT	43	hud	ObjectiveBlast		Blast through rubble.	炸开碎石堆	
@@ -1501,7 +1501,7 @@ LA_GRAVEYARD.TXT	74	voice	a1s4_Rayne16.wav	$	Rayne: Thanks.	莱恩：谢了。
 LA_GRAVEYARD.TXT	76	hud	ost_feed		Then tap the bite button @@harpoonbitebuttonname@@ to feed.	然后轻按吸血键@@harpoonbitebuttonname@@开始吸血	
 LA_GRAVEYARD.TXT	77	hud	ost_dismount		Press @@jumpbuttonname@@ to quit feeding early and dismount.	按@@jumpbuttonname@@可提前停止吸血并跳下	
 LA_GRAVEYARD.TXT	78	hud	ost_knife		Do not hold the bite button if you wish to use the harpoon as a damaging knife attack.	使用鱼叉进行伤害性刀击时，不要按住吸血键	
-LA_GRAVEYARD.TXT	79	hud	ost_shoot		While holding in, hit bite button @@harpoonbitebuttonname@@ for harpoon, or the weapon attack button for guns to shoot breakable objects like furniture, barrels, crates, etc.	抓住敌人时，按吸血键@@harpoonbitebuttonname@@可使用鱼叉，或按武器攻击键开枪射击家具、木桶、箱子等可破坏物体	
+LA_GRAVEYARD.TXT	79	hud	ost_shoot		While holding in, hit bite button @@harpoonbitebuttonname@@ for harpoon, or the weapon attack button for guns to shoot breakable objects like furniture, barrels, crates, etc.	抓住敌人时，按吸血键@@harpoonbitebuttonname@@可使用鱼叉，\n或按武器攻击键开枪射击家具、木桶、箱子等可破坏物体	
 LA_GRAVEYARD.TXT	81	voice	a1s4_mynce28.wav	Mynce	Mynce: I'll protect the mausoleum.  You go find those nests.	明斯：我来守住陵墓，你去找那些巢穴。	
 LA_GRAVEYARD.TXT	83	voice	a1s4_Gravedigger12.wav	Gravedigger	Gravedigger: Huh, who dat?	掘墓人：嗯？谁啊？	
 LA_GRAVEYARD.TXT	84	voice	a1s4_Gravedigger13.wav	Gravedigger	Gravedigger: Hey, who's dere?	掘墓人：喂，谁在那里？	
@@ -1515,7 +1515,7 @@ LA_GRAVEYARD.TXT	92	voice	a1s4_mynce30.wav	Mynce	Mynce: Need help?  Use your aur
 LA_GRAVEYARD.TXT	93	voice	a1s4_mynce31.wav	Mynce	Mynce: Look in every building.  Look in every room, upstairs and down.  You need to find those nests.	明斯：每栋建筑都要搜，每个房间都别漏，上下楼都要检查，你必须找到那些巢穴。	
 LA_GRAVEYARD.TXT	94	voice	a1s4_mynce32.wav	Mynce	Mynce: You have a map.  Check it to get a general idea of where the nests are.	明斯：你有地图，可以用它大致确认巢穴的位置。	
 LA_GRAVEYARD.TXT	95	voice	a1s4_mynce33.wav	Mynce	Mynce: Some places might be very tricky to get into.  Use your brain and all of your abilities to get into each house.	明斯：有些地方可能很难进去。动动脑子，利用你的所有能力进入每栋房子。	
-LA_GRAVEYARD.TXT	97	hud	ost_auraobj		If you can't find your objective go to aura vision and go toward the bright aura.  If there is no bright aura you are in the right area already.  Look all over.	找不到任务目标时，切换至灵光视野并朝明亮的灵光前进。若没有明亮的灵光，说明你已经身处正确区域，仔细搜索四周。	
+LA_GRAVEYARD.TXT	97	hud	ost_auraobj		If you can't find your objective go to aura vision and go toward the bright aura.  If there is no bright aura you are in the right area already.  Look all over.	找不到任务目标时，切换至灵光视野并朝明亮的灵光前进。\n若没有明亮的灵光，说明你已经身处正确区域，仔细搜索四周。	
 LA_GRAVEYARD.TXT	99	voice	a1s4_mynce34.wav	Mynce	Mynce: You've got work to do.  Go!	明斯：还有任务呢，快去！	
 LA_GRAVEYARD.TXT	100	voice	a1s4_mynce35.wav	Mynce	Mynce: Ok...you got me.  I'll tell you a secret.  If you press left, left, right, up, down, left, down, up, up, all of our clothes disappear.	明斯：好吧……被你发现了。\n我告诉你一个秘密：\n依次按左、左、右、上、下、左、下、上、上，我们俩的衣服就会全部消失。	
 LA_GRAVEYARD.TXT	101	voice	a1s4_mynce36.wav	Mynce	Mynce: Not fast enough.  Try again.	明斯：太慢了，再试一次。	
@@ -1572,10 +1572,10 @@ LA_HILL.TXT	22	voice	a1s0_Rayne18a.wav	$	Rayne: I'm done there.	莱恩：那边�
 LA_HILL.TXT	24	hud	ost_start		Find and destroy the nest.	找到并摧毁巢穴	
 LA_HILL.TXT	25	hud	ost_finish		Objective Complete.	目标完成	
 LA_HILL.TXT	26	hud	Intro_VO1		Mortton, Louisiana, 1933. Mission briefing: A mysterious plague has devastated the quiet rural village of Mortton.	1933年，路易斯安那州莫顿。任务简报：一场神秘瘟疫摧毁了宁静的乡村小镇莫顿。	
-LA_HILL.TXT	27	hud	Intro_VO2		This disease is 100% lethal, causing the brains of the infected to liquify, and seep through facial orifices in a thick, viscous fluid.  Prior to death, some cases mutate into mindless, disfigured monsters.  There is no known cure...	这种疾病的致死率为100%，会使感染者的大脑液化，变成浓稠的黏液，从面部孔窍中渗出，有些患者在死亡前还会变成失去理智、面目全非的怪物。目前没有已知疗法……	
+LA_HILL.TXT	27	hud	Intro_VO2		This disease is 100% lethal, causing the brains of the infected to liquify, and seep through facial orifices in a thick, viscous fluid.  Prior to death, some cases mutate into mindless, disfigured monsters.  There is no known cure...	这种疾病的致死率为100%，会使感染者的大脑液化，\n变成浓稠的黏液，从面部孔窍中渗出，\n有些患者在死亡前还会变成失去理智、面目全非的怪物。\n目前没有已知疗法……	
 LA_HILL.TXT	28	hud	Intro_VO3		Even more disturbing are the plague's carriers: large insectoid creatures originating from the bayous surrounding Mortton.	更令人不安的是瘟疫的传播者：来自莫顿周边沼泽的大型昆虫状生物。	
-LA_HILL.TXT	29	hud	Intro_VO4		BloodRayne, you must find and destroy the nests of the plague carriers before they can reproduce and spread the infestation to neighboring towns.	莱恩，你必须在这些瘟疫传播者繁殖并将灾害扩散至邻近城镇前，找到并摧毁它们的巢穴。	
-LA_HILL.TXT	30	hud	Intro_VO5		The nests are usually hidden, though because of their large size, they're hard to miss.  Find them and destroy them.	巢穴通常藏得很隐蔽，不过体积庞大，很难错过。找到并摧毁它们。	
+LA_HILL.TXT	29	hud	Intro_VO4		BloodRayne, you must find and destroy the nests of the plague carriers before they can reproduce and spread the infestation to neighboring towns.	莱恩，\n你必须在这些瘟疫传播者繁殖并将灾害扩散至邻近城镇前，找到并摧毁它们的巢穴。	
+LA_HILL.TXT	30	hud	Intro_VO5		The nests are usually hidden, though because of their large size, they're hard to miss.  Find them and destroy them.	巢穴通常藏得很隐蔽，不过体积庞大，很难错过。\n找到并摧毁它们。	
 LA_OLDTOWN.TXT	0	hud	MissionDescription		Old Town	旧城区	
 LA_OLDTOWN.TXT	2	hud	ost_chase		Follow the Maraisreq to find the source.	跟随马雷斯克找到源头	
 LA_OLDTOWN.TXT	4	voice	a1s0_Rayne12a.wav	$	Rayne: Blocked.	莱恩：堵住了。	
@@ -1621,12 +1621,12 @@ LA_POWER.TXT	23	voice	a1s0_Rayne17c.wav	$	Rayne: Nope, not done here.	莱恩：�
 LA_POWER.TXT	24	voice	a1s0_Rayne18a.wav	$	Rayne: I'm done there.	莱恩：那边已经搞定了。	
 LA_POWER.TXT	26	hud	ost_start		Find and destroy the nest.	找到并摧毁巢穴	
 LA_POWER.TXT	27	hud	ost_finish		Objective Complete.	目标完成	
-LA_POWER.TXT	28	voice	a4s0-rayne1.wav	$	Rayne: That's as good as it gets.  Looks like I'll have to get my feet wet.	莱恩：只能这样了。看来非得下水不可。	
+LA_POWER.TXT	28	voice	a4s0-rayne1.wav	$	Rayne: That's as good as it gets.  Looks like I'll have to get my feet wet.	莱恩：就这样了，看来非得下水不可了。	
 LA_POWER.TXT	29	hud	Intro_VO1		Mortton, Louisiana, 1933. Mission briefing: A mysterious plague has devastated the quiet rural village of Mortton.	1933年，路易斯安那州莫顿。任务简报：一场神秘瘟疫摧毁了宁静的乡村小镇莫顿。	
-LA_POWER.TXT	30	hud	Intro_VO2		This disease is 100% lethal, causing the brains of the infected to liquify, and seep through facial orifices in a thick, viscous fluid.  Prior to death, some cases mutate into mindless, disfigured monsters.  There is no known cure...	这种疾病的致死率为100%，会使感染者的大脑液化，变成浓稠黏液，从面部孔窍中渗出。有些患者在死亡前还会变成失去理智、面目全非的怪物。目前没有已知疗法……	
+LA_POWER.TXT	30	hud	Intro_VO2		This disease is 100% lethal, causing the brains of the infected to liquify, and seep through facial orifices in a thick, viscous fluid.  Prior to death, some cases mutate into mindless, disfigured monsters.  There is no known cure...	这种疾病的致死率为100%，会使感染者的大脑液化，\n变成浓稠黏液，从面部孔窍中渗出。\n有些患者在死亡前还会变成失去理智、面目全非的怪物。\n目前没有已知疗法……	
 LA_POWER.TXT	31	hud	Intro_VO3		Even more disturbing are the plague's carriers: large insectoid creatures originating from the bayous surrounding Mortton.	更令人不安的是瘟疫的传播者：来自莫顿周边沼泽的大型昆虫状生物。	
-LA_POWER.TXT	32	hud	Intro_VO4		BloodRayne, you must find and destroy the nests of the plague carriers before they can reproduce and spread the infestation to neighboring towns.	莱恩，你必须在这些瘟疫传播者繁殖并将灾害扩散至邻近城镇前，找到并摧毁它们的巢穴。	
-LA_POWER.TXT	33	hud	Intro_VO5		The nests are usually hidden, though because of their large size, they're hard to miss.  Find them and destroy them.	巢穴通常藏得很隐蔽，不过体积庞大，很难错过。找到并摧毁它们。	
+LA_POWER.TXT	32	hud	Intro_VO4		BloodRayne, you must find and destroy the nests of the plague carriers before they can reproduce and spread the infestation to neighboring towns.	莱恩，\n你必须在这些瘟疫传播者繁殖并将灾害扩散至邻近城镇前，找到并摧毁它们的巢穴。	
+LA_POWER.TXT	33	hud	Intro_VO5		The nests are usually hidden, though because of their large size, they're hard to miss.  Find them and destroy them.	巢穴通常藏得很隐蔽，不过体积庞大，很难错过。\n找到并摧毁它们。	
 LA_POWER.TXT	35	voice	a1s9_rayne1.wav	$	Rayne: As good as it gets.  Is there no dry land anymore?	莱恩：只能这样了，这里就没有一块干地吗？	
 LA_POWER.TXT	36	voice	a1s10_rayne1.wav	$	Rayne: That's the last of 'em.  Time to head back to the graveyard and meet up with Mynce.	莱恩：这是最后一个，该回墓地跟明斯会合了。	
 LA_SWAMP.TXT	0	hud	MissionDescription		Queen of the Underworld	冥界女王	
@@ -1644,10 +1644,10 @@ LA_SWAMP.TXT	13	voice	a1s0_Rayne18a.wav	$	Rayne: I'm done there.	莱恩：那边
 LA_SWAMP.TXT	15	voice	a1s14_rayne1.wav	$	Rayne: The aura's gone. But what's that?	莱恩：灵光消失了。可那是什么？	
 LA_SWAMP.TXT	16	voice	a1s14_rayne2.wav	$	Rayne: A Voodoo ritual.	莱恩：巫毒仪式。	
 LA_SWAMP.TXT	17	voice	a1s14_rayne4.wav	$	"Rayne: ...to awaken the ""mother of the underworld""?"	莱恩：……为了唤醒“冥界之母”？	
-LA_SWAMP.TXT	18	voice	a1s14_rayne5.wav	$	Rayne: Either she's a smoker or someone was just here.	莱恩：要么她烟瘾很大，要么刚才有人来过。	
+LA_SWAMP.TXT	18	voice	a1s14_rayne5.wav	$	Rayne: Either she's a smoker or someone was just here.	莱恩：要么她烟瘾很大，要么直到刚才这里还有人。	
 LA_SWAMP.TXT	19	voice	a1s14_rayne7.wav	$	Rayne: Hello?	莱恩：有人吗？	
 LA_SWAMP.TXT	20	voice	a1s14_rayne8.wav	$	Rayne: Aaaaaaaaaa!	莱恩：啊啊啊啊！	
-LA_SWAMP.TXT	21	voice	a1s14_Rayne9.wav	$	Rayne: Big momma.	莱恩：好大一只母怪。	
+LA_SWAMP.TXT	21	voice	a1s14_Rayne9.wav	$	Rayne: Big momma.	莱恩：好大一只母怪物。	
 LA_SWAMP.TXT	22	voice	a1s14_rayne10.wav	$	Rayne: Back to sleep for you.	莱恩：滚回去睡觉吧。	
 LA_SWAMP.TXT	23	voice	a1s14_Queen1.wav	Queen	Queen: Splooch.	女王：噗叽。	
 LA_SWAMP.TXT	24	voice	a1s14_rayne11.wav	$	Rayne: Awww...did you eat something that isn't agreeing with your tummy?	莱恩：哎呀……是不是吃坏肚子了？	
@@ -1711,7 +1711,7 @@ LA_TRAINING.TXT	53	hud	ost_slave		Press @@visionNormalButtonName@@ to enter norm
 LA_TRAINING.TXT	54	voice	a1s2_mynce29.wav	Mynce	Mynce: Next one's for you.	明斯：下一个交给你。	
 LA_TRAINING.TXT	56	voice	a1s2_mynce30.wav	Mynce	Mynce: Shhh.  There's one.  Use your Aura Sense to see it in the dark.	明斯：嘘，那里有一个，用灵光感知在黑暗中看见他。	
 LA_TRAINING.TXT	57	hud	ost_aura		Press @@visionAuraButtonName@@ to enter aura vision.  Aura vision works well as night vision.  But it also shows enemies' health and awareness.	按@@visionAuraButtonName@@进入灵光视野。灵光视野可充当夜视功能，也能显示敌人的生命值和警觉程度	
-LA_TRAINING.TXT	58	hud	ost_green		Normally an enemies' health goes from green to yellow to orange to red.  Green is 100% healthy and aware of BloodRayne.	通常敌人的生命状态会依次显示为绿色、黄色、橙色和红色。绿色表示生命值为100%，并且已经察觉莱恩	
+LA_TRAINING.TXT	58	hud	ost_green		Normally an enemies' health goes from green to yellow to orange to red.  Green is 100% healthy and aware of BloodRayne.	通常敌人的生命状态会依次显示为绿色、黄色、橙色和红色。\n绿色表示生命值为100%，并且已经察觉莱恩	
 LA_TRAINING.TXT	59	voice	a1s2_mynce31.wav	Mynce	Mynce: Easy prey if you want it.	明斯：想动手的话，这个很好对付。	
 LA_TRAINING.TXT	60	voice	a1s2_mynce32.wav	Mynce	Mynce: He's a big meal.  Look how bright his aura is.  He has no idea we're here.	明斯：这可是顿大餐。看他的灵光多亮，他完全不知道我们在这里。	
 LA_TRAINING.TXT	62	voice	a1s2_Rayne6.wav	$	Rayne: He's not panicking or hurt...yet.	莱恩：他现在还没害怕，也没受伤。	
@@ -1726,7 +1726,7 @@ LA_TRAINING.TXT	71	hud	ost_go		If you don't know where to go, use your aura visi
 LA_TRAINING.TXT	72	hud	ost_objective		This glow is your immediate objective. This glow will even shine through walls.	该光芒表示当前任务目标，即使隔着墙壁也能看见	
 LA_TRAINING.TXT	74	voice	a1s2_mynce41.wav	Mynce	Mynce: Guess we're done here.  Let's go to the church.	明斯：看来这里已经处理完了，去教堂吧。	
 LA_TRAINING.TXT	75	voice	a5s1_Rayne34.wav	$	Let's use the boat.	我们坐船过去。	
-LA_TRAINING.TXT	77	hud	ost_weapons		Weapons with ammo will flash.  These are automatically picked up by walking over them until inventory is full - two large guns, four small guns, two grenades, and one special gun.	有弹药的武器会闪光。走到武器上即可自动拾取，直至携带栏装满：两把大型枪械、四把小型枪械、两枚手榴弹和一把特殊枪械	
+LA_TRAINING.TXT	77	hud	ost_weapons		Weapons with ammo will flash.  These are automatically picked up by walking over them until inventory is full - two large guns, four small guns, two grenades, and one special gun.	有弹药的武器会闪光。\n走到武器上即可自动拾取，直至携带栏装满：\n两把大型枪械、四把小型枪械、两枚手榴弹和一把特殊枪械	
 LA_TRAINING.TXT	78	hud	ost_cycle		Hit weapon button @@weaponmodeforwardbuttonname@@ and @@weaponmodereversebuttonname@@ to cycle through available weapons and view ammo counts.	按武器切换键@@weaponmodeforwardbuttonname@@和@@weaponmodereversebuttonname@@可循环切换武器并查看弹药数量	
 LA_TRAINING.TXT	80	voice	a5s5_Rayne115.wav	$	Rayne: The piles of melted people obviously won't need them anymore.	莱恩：那些融成一摊的人显然也用不着了。	
 LA_TRAINING.TXT	82	voice	a1s3_Rayne15.wav	$	Rayne: Guns are fine, but nothing beats blades in close combat.	莱恩：枪还不错，但近身战还是刀刃最好用。	
@@ -1742,7 +1742,7 @@ LA_TRAINING.TXT	97	hud	ost_inv		Rayne automatically keeps inventory optimal acco
 LA_TRAINING.TXT	99	voice	a5s5_Rayne143.wav	$	Rayne: So... what's your favorite?	莱恩：所以……你最喜欢哪种？	
 LA_TRAINING.TXT	100	voice	a1s3_mynce53.wav	Mynce	Mynce: Double barrel shotgun.	明斯：双管霰弹枪。	
 LA_TRAINING.TXT	101	voice	a1s3_Rayne20.wav	$	Rayne: Good bye stealth, welcome brute strength.	莱恩：告别潜行，迎接蛮力。	
-LA_TRAINING.TXT	103	hud	ost_special		"Some weapons are ""Special"" because they have unique properties like short range, wide damage cone, 100% accuracy, etc.  The last slot in BloodRayne's inventory is reserved for these."	部分武器因具备短射程、大范围伤害、100%命中率等独特性能而被归为“特殊”武器，莱恩携带栏的最后一个位置专门用于此类武器	
+LA_TRAINING.TXT	103	hud	ost_special		"Some weapons are ""Special"" because they have unique properties like short range, wide damage cone, 100% accuracy, etc.  The last slot in BloodRayne's inventory is reserved for these."	部分武器因具备短射程、大范围伤害、100%命中率等独特性能而被归为“特殊”武器，\n莱恩携带栏的最后一个位置专门用于此类武器	
 LA_TRAINING.TXT	105	voice	a1s3_mynce54.wav	Mynce	Mynce: What can I say.  I'm a proponent of the big-bang theory.	明斯：怎么说呢，我可是“大爆炸理论”的拥护者。	
 LA_TRAINING.TXT	107	hud	ost_one		"BloodRayne can only carry one ""Special"" gun at a time, but can switch to another when she finds one."	莱恩一次只能携带一把“特殊”枪械，但找到另一把时可以进行替换	
 LA_TRAINING.TXT	109	voice	a5s5_Rayne144.wav	$	Rayne: Shotgun philosophy of the half-vampire.	莱恩：半吸血鬼的霰弹枪哲学。	
@@ -1893,8 +1893,8 @@ MSGLIST.TXT	149	ui			Unable to load saved game.	无法载入存档
 MSGLIST.TXT	150	ui			%s\nLoad failed.	%s\n载入失败	
 MSGLIST.TXT	151	ui			%s\nSave failed.	%s\n保存失败	
 MSGLIST.TXT	152	ui			There's a problem with the disc you're using.  It is damaged or dirty.	你使用的光盘有问题，光盘已损坏或脏污。	
-MSGLIST.TXT	153	ui			Please wait while BloodRayne game data is copied to your Xbox hard disk.  This is only necessary the first time you play BloodRayne.	正在将《吸血莱恩》游戏数据复制到 Xbox 硬盘，请稍候。仅在首次游玩时需要执行此操作。	
-MSGLIST.TXT	154	ui			Feeding not only restores Rayne's health, it also eliminates an enemy, and you can rotate the victim to block bullets.	吸血不仅能恢复莱恩的生命值，还能消灭一名敌人；你还可以转动受害者，用其身体阻挡子弹。	
+MSGLIST.TXT	153	ui			Please wait while BloodRayne game data is copied to your Xbox hard disk.  This is only necessary the first time you play BloodRayne.	正在将《吸血莱恩》游戏数据复制到 Xbox 硬盘，请稍候。\n仅在首次游玩时需要执行此操作。	
+MSGLIST.TXT	154	ui			Feeding not only restores Rayne's health, it also eliminates an enemy, and you can rotate the victim to block bullets.	吸血不仅能恢复莱恩的生命值，还能消灭一名敌人；\n你还可以转动受害者，用其身体阻挡子弹。	
 MSGLIST.TXT	155	ui			Use Dilated perception when encountering large numbers of enemies. This gives you ample time to plan each attack.	遭遇大批敌人时使用延时视觉，这能让你有充足时间规划每次攻击。	
 MSGLIST.TXT	156	ui			Strafe back and forth while fighting. Enemies have difficulty aiming at a moving target.	战斗时来回平移，敌人很难瞄准移动中的目标。	
 MSGLIST.TXT	157	ui			If Rayne is hurt and outnumbered, don't be afraid to retreat.	如果莱恩受伤且寡不敌众，不要害怕撤退。	
@@ -1903,12 +1903,12 @@ MSGLIST.TXT	159	ui			When there are no doors to open, look for cracks in the wal
 MSGLIST.TXT	160	ui			Some vehicles have heavy mounted weapons that you can take with you.	有些载具装有重型固定武器，你可以将其拆下带走。	
 MSGLIST.TXT	161	ui			Use Aura Vision and your compass if you ever get lost.	迷路时使用灵气视觉和指南针。	
 MSGLIST.TXT	162	ui			If Rayne runs out of guns, return to dead bodies for weapons she may have left behind.	如果莱恩用光了枪械，可以回到尸体旁，捡取她先前丢下的武器。	
-MSGLIST.TXT	163	ui			If Rayne is at full health and a soldier is running away, you might want to let him go. You never know when Rayne might need a light snack later.	如果莱恩的生命值已满，而一名士兵正在逃跑，或许可以放他一马，谁知道莱恩之后会不会需要一份小点心呢。	
-MSGLIST.TXT	164	ui			If Rayne is in an elevated position with a good view of her enemies, she can use Extruded View to place her bullets accurately and pick off her opponents one at a time.	如果莱恩身处高处，能清楚地俯瞰敌人，她可以使用穿透视觉进行精确射击，逐个消灭对手。	
-MSGLIST.TXT	165	ui			Rayne has many foes. Sometimes her enemies are more interested in fighting each other than fighting Rayne. Let conflicting sides weaken each other before jumping into the fray.	莱恩树敌众多，有时敌人更热衷于互相厮杀，而不是攻莱恩。先让敌对双方彼此削弱，再加入战斗。	
-MSGLIST.TXT	166	ui			Rayne not only runs fast; she also jumps high. She can quickly get out of trouble if she needs to. Remember to think about leaping up, not just running away.	莱恩不仅跑得快，跳得也高。必要时，她可以迅速脱离险境。别只想着逃跑，也要记得向上跳。	
-MSGLIST.TXT	167	ui			Deep water rapidly damages Rayne. Stay high and dry as often as possible. Don't run through it if you can jump over it.	深水会迅速伤害莱恩，尽量待在高处和干燥地带。能跳过去时，就不要直接从水里跑过。	
-MSGLIST.TXT	168	ui			When Rayne fights soldiers, the rebound kick (double-tap the Jump button) will often disarm them. Rayne can snatch his gun out of the air before it hits the ground.	莱恩与士兵战斗时，反弹踢（连续按两次跳跃键）通常能使对方缴械。枪落地前，莱恩可以在空中将其夺走。	
+MSGLIST.TXT	163	ui			If Rayne is at full health and a soldier is running away, you might want to let him go. You never know when Rayne might need a light snack later.	如果莱恩的生命值已满，而一名士兵正在逃跑，或许可以放他一马，\n谁知道莱恩之后会不会需要一份小点心呢。	
+MSGLIST.TXT	164	ui			If Rayne is in an elevated position with a good view of her enemies, she can use Extruded View to place her bullets accurately and pick off her opponents one at a time.	如果莱恩身处高处，能清楚地俯瞰敌人，\n她可以使用穿透视觉进行精确射击，逐个消灭对手。	
+MSGLIST.TXT	165	ui			Rayne has many foes. Sometimes her enemies are more interested in fighting each other than fighting Rayne. Let conflicting sides weaken each other before jumping into the fray.	莱恩树敌众多，有时敌人更热衷于互相厮杀，而不是攻莱恩。\n先让敌对双方彼此削弱，再加入战斗。	
+MSGLIST.TXT	166	ui			Rayne not only runs fast; she also jumps high. She can quickly get out of trouble if she needs to. Remember to think about leaping up, not just running away.	莱恩不仅跑得快，跳得也高。\n必要时，她可以迅速脱离险境。\n别只想着逃跑，也要记得向上跳。	
+MSGLIST.TXT	167	ui			Deep water rapidly damages Rayne. Stay high and dry as often as possible. Don't run through it if you can jump over it.	深水会迅速伤害莱恩，尽量待在高处和干燥地带。\n能跳过去时，就不要直接从水里跑过。	
+MSGLIST.TXT	168	ui			When Rayne fights soldiers, the rebound kick (double-tap the Jump button) will often disarm them. Rayne can snatch his gun out of the air before it hits the ground.	莱恩与士兵战斗时，反弹踢（连续按两次跳跃键）通常能使对方缴械。\n枪落地前，莱恩可以在空中将其夺走。	
 MSGLIST.TXT	169	ui			%d%% complete.	已完成 %d%%。	
 MSGLIST.TXT	170	ui			Checking saved games and unlocking levels...	正在检查存档并解锁关卡……	
 MSGLIST.TXT	171	ui			Cheat already unlocked	作弊项已解锁	
