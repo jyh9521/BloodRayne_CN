@@ -2273,35 +2273,35 @@ MSGLIST.TXT	529	ui			Canceled	キャンセルしました	已取消
 MSGLIST.TXT	530	ui			Invalid login response	Invalid login response	登录响应无效	
 MSGLIST.TXT	531	ui			Invalid key response	Invalid key response	密钥响应无效	
 MSGLIST.TXT	532	ui			Press @@weaponModeForwardButtonName@@ to pick up the %s	@@weaponModeForwardButtonName@@を押せば\n%sを入手可能	按@@weaponModeForwardButtonName@@\n即可取得%s	
-MSGLIST.TXT	533	ui			Oberinspekteur			
-MSGLIST.TXT	534	ui			Leutnant			
-MSGLIST.TXT	535	ui			Standortfuhrer			
-MSGLIST.TXT	536	ui			Korvettenkapitan			
-MSGLIST.TXT	537	ui			Major.			
-MSGLIST.TXT	538	ui			Korvettenoberstleutnant			
-MSGLIST.TXT	539	ui			Oberst			
-MSGLIST.TXT	540	ui			General Major			
-MSGLIST.TXT	541	ui			Generalstabsinformationen			
-MSGLIST.TXT	542	ui			Infanterie-Kommandeur			
-MSGLIST.TXT	543	ui			Totenkopfverbandefuhrer			
-MSGLIST.TXT	544	ui			Oberpriester			
-MSGLIST.TXT	545	ui			Gegengrupenfuhrer			
-MSGLIST.TXT	546	ui			Oberinspekteur			
-MSGLIST.TXT	547	ui			Hauptstumfuhrer			
-MSGLIST.TXT	548	ui			Assistenzinfanterie			
-MSGLIST.TXT	549	ui			Leutnant			
-MSGLIST.TXT	550	ui			Luftwaffe-Oberleutnant			
-MSGLIST.TXT	551	ui			Oberleutnant			
-MSGLIST.TXT	552	ui			Hauptmann			
-MSGLIST.TXT	553	ui			Obersturmbannfuhrer			
-MSGLIST.TXT	554	ui			Oberstleutnant			
-MSGLIST.TXT	555	ui			Generaloberst			
-MSGLIST.TXT	556	ui			General Major			
-MSGLIST.TXT	557	ui			Generalleutnant			
-MSGLIST.TXT	558	ui			Generalstabsuberpanzer			
-MSGLIST.TXT	559	ui			Wehrmachtbefelshaber			
-MSGLIST.TXT	560	ui			Oberscharfuhrer			
-MSGLIST.TXT	561	ui			Gegengrupenfuhrer			
+MSGLIST.TXT	533	ui			Oberinspekteur		高级监察官	
+MSGLIST.TXT	534	ui			Leutnant		少尉	
+MSGLIST.TXT	535	ui			Standortfuhrer		基地指挥官	
+MSGLIST.TXT	536	ui			Korvettenkapitan		海军少校	
+MSGLIST.TXT	537	ui			Major.		少校	
+MSGLIST.TXT	538	ui			Korvettenoberstleutnant		海军中校	
+MSGLIST.TXT	539	ui			Oberst		上校	
+MSGLIST.TXT	540	ui			General Major		少将	
+MSGLIST.TXT	541	ui			Generalstabsinformationen		总参谋部情报官	
+MSGLIST.TXT	542	ui			Infanterie-Kommandeur		步兵指挥官	
+MSGLIST.TXT	543	ui			Totenkopfverbandefuhrer		骷髅部队指挥官	
+MSGLIST.TXT	544	ui			Oberpriester		大祭司	
+MSGLIST.TXT	545	ui			Gegengrupenfuhrer		反幽灵小组指挥官	
+MSGLIST.TXT	546	ui			Oberinspekteur		高级监察官	
+MSGLIST.TXT	547	ui			Hauptstumfuhrer		突击队长	
+MSGLIST.TXT	548	ui			Assistenzinfanterie		步兵副官	
+MSGLIST.TXT	549	ui			Leutnant		少尉	
+MSGLIST.TXT	550	ui			Luftwaffe-Oberleutnant		空军中尉	
+MSGLIST.TXT	551	ui			Oberleutnant		中尉	
+MSGLIST.TXT	552	ui			Hauptmann		上尉	
+MSGLIST.TXT	553	ui			Obersturmbannfuhrer		党卫队中校	
+MSGLIST.TXT	554	ui			Oberstleutnant		中校	
+MSGLIST.TXT	555	ui			Generaloberst		大将	
+MSGLIST.TXT	556	ui			General Major		少将	
+MSGLIST.TXT	557	ui			Generalleutnant		中将	
+MSGLIST.TXT	558	ui			Generalstabsuberpanzer		装甲总参谋官	
+MSGLIST.TXT	559	ui			Wehrmachtbefelshaber		国防军指挥官	
+MSGLIST.TXT	560	ui			Oberscharfuhrer		党卫队高级小队长	
+MSGLIST.TXT	561	ui			Gegengrupenfuhrer		反幽灵小组指挥官	
 MSGLIST.TXT	562	ui			Emden U-Boat Station	3-1 エムデンUボ－ト基地	3-1 埃姆登U型潜艇基地	
 MSGLIST.TXT	563	ui			The Barracks	2-5 兵舎	2-5 兵营	
 MSGLIST.TXT	564	ui			Thule Chapel	2-4 トゥーレの礼拝堂	2-4 图勒礼拜堂	
