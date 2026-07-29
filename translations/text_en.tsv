@@ -156,7 +156,7 @@ AR_GH_INTEL.TXT	33	voice	a2s3_IntelOff3.wav	IntelOff	Officer: That's ridiculous.
 AR_GH_INTEL.TXT	34	voice	a2s3_Radiovoice3.wav	IntelOff	Radio voice: I can't tell you.	无线电：我不能告诉您。	
 AR_GH_INTEL.TXT	35	voice	a2s3_IntelOff4.wav	IntelOff	Officer: I'm your superior officer.  You tell me right now where Schmitt is.	军官：我是你的上级。立刻告诉我施密特在哪儿。	
 AR_GH_INTEL.TXT	36	voice	a2s3_Radiovoice4.wav	IntelOff	Radio voice: I'm sorry sir, but I can't tell you.  Not because I don't want to, but because I don't know.	无线电：抱歉，长官，我没法告诉您。不是我不想说，是我也不知道。	
-AR_GH_INTEL.TXT	37	voice	a2s3_IntelOff5.wav	IntelOff	Officer: Stop babbling.  Is Gegengruppenfuhrer Wulf aware of the situation?	军官：别啰唆了，反幽灵小组首领武尔夫知道这里的情况吗？	
+AR_GH_INTEL.TXT	37	voice	a2s3_IntelOff5.wav	IntelOff	Officer: Stop babbling.  Is Gegengruppenfuhrer Wulf aware of the situation?	军官：别啰唆了，反幽灵小组首领沃尔夫知道这里的情况吗？	
 AR_GH_INTEL.TXT	38	voice	a2s3_Radiovoice5.wav	IntelOff	Radio voice: He is.	无线电：知道。	
 AR_GH_INTEL.TXT	39	voice	a2s3_IntelOff6.wav	IntelOff	Officer: Does this man never leave?	军官：那家伙就从来不走吗？	
 AR_GH_INTEL.TXT	40	voice	a2s3_Radiovoice6.wav	IntelOff	Radio voice: I could ask him.	无线电：我可以替您问问。	
@@ -239,8 +239,8 @@ AR_GH_SLAVE.TXT	30	voice	a2s1_Darkman21.wav	$	DarkMan: ...called the G.G.G., or 
 AR_GH_SLAVE.TXT	31	voice	a2s1_rayne7.wav	$	"Rayne: ""Anti-ghost group""?"	莱恩：“反幽灵小组”？	
 AR_GH_SLAVE.TXT	32	voice	a2s1_Darkman22.wav	$	DarkMan: Literally, yes.	暗影人：按字面翻，就是这个意思。	
 AR_GH_SLAVE.TXT	33	voice	a2s1_Darkman23.wav	$	DarkMan: The G.G.G. was established to experiment in the occult.  Anything that could help Hitler succeed.	暗影人：反幽灵小组专门进行神秘学实验，研究一切可能帮助希特勒获胜的东西。	
-AR_GH_SLAVE.TXT	34	voice	a2s1_Darkman24.wav	$	DarkMan: Their leader and founder is Jurgen Wulf.	暗影人：它的创始人兼首领是尤尔根·武尔夫。	
-AR_GH_SLAVE.TXT	35	voice	a2s1_Darkman25.wav	$	DarkMan: The file you have lists many G.G.G. officers and their S.S. conspirators, including Jurgen Wulf.	暗影人：你拿到的文件里列出了许多反幽灵小组军官，\n以及与他们勾结的党卫队成员，\n其中也包括尤尔根·武尔夫。	
+AR_GH_SLAVE.TXT	34	voice	a2s1_Darkman24.wav	$	DarkMan: Their leader and founder is Jurgen Wulf.	暗影人：它的创始人兼首领是尤尔根·沃尔夫。	
+AR_GH_SLAVE.TXT	35	voice	a2s1_Darkman25.wav	$	DarkMan: The file you have lists many G.G.G. officers and their S.S. conspirators, including Jurgen Wulf.	暗影人：你拿到的文件里列出了许多反幽灵小组军官，\n以及与他们勾结的党卫队成员，\n其中也包括尤尔根·沃尔夫。	
 AR_GH_SLAVE.TXT	36	voice	a2s1_Darkman26.wav	$	DarkMan: You are to eliminate all of these targets to prevent further...supernatural ambitions.	暗影人：你必须清除名单上的所有目标，免得他们继续实现那些……超自然野心。	
 AR_GH_SLAVE.TXT	37	voice	a2s1_Darkman27.wav	$	DarkMan: But be careful.  Members of the G.G.G. have been experimentally enhanced and are particularly dangerous.	暗影人：不过要小心，反幽灵小组的成员都接受过实验强化，非常危险。	
 AR_GH_SLAVE.TXT	38	voice	a2s1_Darkman28.wav	$	DarkMan: Some may even be surrounded by elite G.G.G. storm troopers.	暗影人：有些人身边甚至还有反幽灵小组的精锐突击队保护。	
@@ -363,7 +363,7 @@ AR_GH_WRECKED.TXT	7	voice	a2s16_Soldier2_4.wav	Soldier2	Soldier: My legs!  They'
 AR_GH_WRECKED.TXT	8	voice	a2s16_Soldier3_10.wav	Soldier3	Soldier: ...can't move...can't feel anything...	士兵：……动不了……什么都感觉不到……	
 AR_GH_WRECKED.TXT	9	voice	a2s16_rayne2.wav	$	Rayne: Hey sweetie, let me help you ease your pain.	莱恩：亲爱的，让我帮你解脱吧。	
 AR_GH_WRECKED.TXT	10	voice	a2s17_rayne1.wav	$	Rayne: My, you're a big one.  Mauler, I presume?	莱恩：哟，块头不小嘛，你就是“重锤”？	
-AR_GH_WRECKED.TXT	11	voice	a2s17_Mauler1.wav	Brute	Mauler: GegenGruppenFuhrer Wulf said you might come this way.	重锤：反幽灵小组首领武尔夫说，你可能会从这里经过。	
+AR_GH_WRECKED.TXT	11	voice	a2s17_Mauler1.wav	Brute	Mauler: GegenGruppenFuhrer Wulf said you might come this way.	重锤：反幽灵小组首领沃尔夫说，你可能会从这里经过。	
 AR_GH_WRECKED.TXT	12	voice	a2s17_rayne2.wav	$	Rayne: Where is that elusive jackal?  I always seem to miss him.	莱恩：那只躲躲藏藏的豺狼在哪儿？我怎么每次都扑个空。	
 AR_GH_WRECKED.TXT	13	voice	a2s17_Mauler2.wav	Brute	Mauler: Headed back to the Fatherland.	重锤：他已经回祖国了。	
 AR_GH_WRECKED.TXT	14	voice	a2s17_rayne3.wav	$	Rayne: He's given up on the relic?	莱恩：他放弃那件遗物了？	
@@ -371,9 +371,9 @@ AR_GH_WRECKED.TXT	15	voice	a2s17_Mauler3.wav	Brute	Mauler: What you have is not 
 AR_GH_WRECKED.TXT	16	voice	a2s17_Mauler4.wav	Brute	Mauler: Just like that stupid priest.  He knows nothing but lies.	重锤：就和那个蠢祭司一样，他知道的全是谎言。	
 AR_GH_WRECKED.TXT	17	voice	a2s17_Mauler5.wav	Brute	Mauler: The great Beliar is the original devil.  When Mephisto fell from heaven, he usurped Beliar.  When he couldn't destroy him, Mephisto ripped Beliar into a thousand pieces and scattered him in all directions.	重锤：伟大的贝利亚才是最初的魔王。\n墨菲斯托从天堂坠落后，篡夺了贝利亚的地位。\n他杀不了贝利亚，便将他的身体撕成一千块，撒向四面八方。	
 AR_GH_WRECKED.TXT	18	voice	a2s17_Mauler6.wav	Brute	Mauler: No one would dare seek them out.	重锤：没人敢去寻找那些碎片。	
-AR_GH_WRECKED.TXT	19	voice	a2s17_Mauler7.wav	Brute	Mauler: No one, that is, except Jurgen Wulf and us, his Gegengheist Gruppe.	重锤：除了尤尔根·武尔夫，还有我们，他的反幽灵小组。	
-AR_GH_WRECKED.TXT	20	voice	a2s17_Mauler8.wav	Brute	Mauler: Do you know which relic Wulf is unearthing in castle Gaustadt right now?	重锤：你知道武尔夫此刻正在高施塔特城堡挖什么吗？	
-AR_GH_WRECKED.TXT	21	voice	a2s17_Mauler9.wav	Brute	Mauler: Beliar's black seething heart.  The key to ruling the world is in our own country, and Wulf will control it.	重锤：贝利亚那颗漆黑翻涌的心脏。\n统治世界的钥匙就在我们祖国，而武尔夫将把它掌握在手中。	
+AR_GH_WRECKED.TXT	19	voice	a2s17_Mauler7.wav	Brute	Mauler: No one, that is, except Jurgen Wulf and us, his Gegengheist Gruppe.	重锤：除了尤尔根·沃尔夫，还有我们，他的反幽灵小组。	
+AR_GH_WRECKED.TXT	20	voice	a2s17_Mauler8.wav	Brute	Mauler: Do you know which relic Wulf is unearthing in castle Gaustadt right now?	重锤：你知道沃尔夫此刻正在高施塔特城堡挖什么吗？	
+AR_GH_WRECKED.TXT	21	voice	a2s17_Mauler9.wav	Brute	Mauler: Beliar's black seething heart.  The key to ruling the world is in our own country, and Wulf will control it.	重锤：贝利亚那颗漆黑翻涌的心脏。\n统治世界的钥匙就在我们祖国，而沃尔夫将把它掌握在手中。	
 AR_GH_WRECKED.TXT	22	voice	a2s17_rayne8.wav	$	Rayne: Yeah, we'll see about that.	莱恩：是吗？那就走着瞧。	
 AR_GH_WRECKED.TXT	23	voice	a2s17_Mauler17.wav	Brute	Mauler: Come down from there!	重锤：从那里下来！	
 AR_GH_WRECKED.TXT	24	voice	a2s17_Mauler18.wav	Brute	Mauler: Scared of me?  Come and fight!	重锤：怕我了？下来打啊！	
@@ -689,11 +689,11 @@ DE_C1BROKENFRONT_A.TXT	7	voice	a3s1_rayne1.wav	none	Rayne: Castle Gaustadt.  A p
 DE_C1BROKENFRONT_A.TXT	8	voice	a3s1_rayne2.wav	none	Rayne: But now the Germans have put up an eviction notice.  They've made some progress, but the creatures they're up against are monsters even amongst vampires.	莱恩：可现在德国人送来了逐客令。\n他们确实取得了一些进展，不过对手就算放在吸血鬼里，也称得上怪物。	
 DE_C1BROKENFRONT_A.TXT	9	voice	a3s1_rayne3.wav	none	Rayne: An ancient breed of vampire, cut off from the world, where in isolation, they evolved into perfect killers.	莱恩：那是一支与世隔绝的古老吸血鬼族群。\n长期孤立之下，它们进化成了完美的杀手。	
 DE_C1BROKENFRONT_A.TXT	10	voice	a3s1_rayne4.wav	none	Rayne: Daylight is fading fast.  And with it any advantage the Nazis might have had.	莱恩：太阳很快就要下山了，纳粹的那点优势也会跟着一起消失。	
-DE_C1BROKENFRONT_A.TXT	11	voice	a3s1_rayne5.wav	none	Rayne: I have a new target list from the Brimstone Society.  And an official objective to stop Wulf.	莱恩：硫磺会给了我一份新的目标名单，还有一项正式任务，阻止武尔夫。	
-DE_C1BROKENFRONT_A.TXT	12	voice	a3s1_rayne6.wav	none	Rayne: Wulf already has Beliar's teeth, ribs, a hand, and an eye.  Now he's after the black heart, hidden somewhere in this castle.	莱恩：武尔夫已经拿到了贝利亚的牙齿、肋骨、一只手和一只眼睛，\n现在他盯上了藏在这座城堡里的黑心。	
+DE_C1BROKENFRONT_A.TXT	11	voice	a3s1_rayne5.wav	none	Rayne: I have a new target list from the Brimstone Society.  And an official objective to stop Wulf.	莱恩：硫磺会给了我一份新的目标名单，还有一项正式任务，阻止沃尔夫。	
+DE_C1BROKENFRONT_A.TXT	12	voice	a3s1_rayne6.wav	none	Rayne: Wulf already has Beliar's teeth, ribs, a hand, and an eye.  Now he's after the black heart, hidden somewhere in this castle.	莱恩：沃尔夫已经拿到了贝利亚的牙齿、肋骨、一只手和一只眼睛，\n现在他盯上了藏在这座城堡里的黑心。	
 DE_C1BROKENFRONT_A.TXT	13	voice	a3s1_rayne7.wav	none	Rayne: He wants to wake Beliar in himself.  Beliar.  A demon.  A devil.  Maybe even the devil.	莱恩：他想在自己体内唤醒贝利亚。\n贝利亚，一个恶魔，一个魔王……甚至可能就是魔鬼本身。	
-DE_C1BROKENFRONT_A.TXT	14	voice	a3s1_rayne8.wav	none	Rayne: Wulf can't control this kind of power.  If Beliar is woken, we're all in big trouble.	莱恩：武尔夫驾驭不了这种力量。一旦贝利亚苏醒，我们所有人都要倒大霉。	
-DE_C1BROKENFRONT_A.TXT	15	voice	a3s1_rayne9.wav	none	Rayne: Wulf.  Remember, five years ago in Louisiana?  You almost killed me.	莱恩：武尔夫，还记得五年前的路易斯安那吗？你差点杀了我。	
+DE_C1BROKENFRONT_A.TXT	14	voice	a3s1_rayne8.wav	none	Rayne: Wulf can't control this kind of power.  If Beliar is woken, we're all in big trouble.	莱恩：沃尔夫驾驭不了这种力量。一旦贝利亚苏醒，我们所有人都要倒大霉。	
+DE_C1BROKENFRONT_A.TXT	15	voice	a3s1_rayne9.wav	none	Rayne: Wulf.  Remember, five years ago in Louisiana?  You almost killed me.	莱恩：沃尔夫，还记得五年前的路易斯安那吗？你差点杀了我。	
 DE_C1BROKENFRONT_A.TXT	16	voice	a3s1_rayne10.wav	none	Rayne: I intend to pay you back...	莱恩：这笔账我会还给你……	
 DE_C1BROKENFRONT_A.TXT	17	voice	a3s1_rayne11.wav	none	Rayne: ...with interest.	莱恩：……连本带利。	
 DE_C1BROKENFRONT_A.TXT	18	voice	a3s1_soldier1_1.wav	SoldierIntro0	Guard: Papers.  Let me see your papers.	守卫：证件，把证件拿出来。	
@@ -898,7 +898,7 @@ DE_C2START.TXT	0	hud	ost_mentor		G.G.G. - High Commander: Eliminated	反幽灵�
 DE_C2START.TXT	1	hud	ost_objective1		Destroy all opposition	消灭所有敌人	
 DE_C2START.TXT	2	hud	ost_objective2		Eliminate Officer	消灭军官	
 DE_C2START.TXT	3	voice	a3s3_rayne1.wav	$	Rayne: What!  Mynce is...alive?	莱恩：什么！明斯……还活着？	
-DE_C2START.TXT	4	voice	a3s3_rayne2.wav	$	Rayne: ...and she's working for that bastard Wulf?	莱恩：……而且她在替武尔夫那个混蛋卖命？	
+DE_C2START.TXT	4	voice	a3s3_rayne2.wav	$	Rayne: ...and she's working for that bastard Wulf?	莱恩：……而且她在替沃尔夫那个混蛋卖命？	
 DE_C2START.TXT	5	voice	a3s3_rayne3.wav	$	Rayne: No, no, no!	莱恩：不，不，不！	
 DE_C2START.TXT	6	voice	a3s3_rayne4.wav	$	Rayne: That bitch.  I'm going to tear her apart.	莱恩：那个婊子，我要把她撕成碎片。	
 DE_C2START.TXT	7	voice	a3s3_rayne5.wav	$	Rayne: I thought you were dead.	莱恩：我以为你已经死了。	
@@ -947,7 +947,7 @@ DE_C2WINDMILL.TXT	16	voice	a3s6_Hedrox3_4.wav	Hedrox3	Hedrox: Death.	赫德罗�
 DE_C2WINDMILL.TXT	17	voice	a3s6_Hedrox2_5.wav	Hedrox2	Hedrox: You saw Hedrox eat the human's mind...	赫德罗克斯：你看见赫德罗克斯吃掉了那个人类的脑子……	
 DE_C2WINDMILL.TXT	18	voice	a3s6_Hedrox3_5.wav	Hedrox3	Hedrox: ...and Hedrox learned Voicu wore the relic on his crown...	赫德罗克斯：……赫德罗克斯才知道，沃伊库一直把遗物戴在王冠上……	
 DE_C2WINDMILL.TXT	19	voice	a3s6_Hedrox1_6.wav	Hedrox1	Hedrox: ...the whole time.	赫德罗克斯：……从头到尾都是。	
-DE_C2WINDMILL.TXT	20	voice	a3s6_Hedrox1_7.wav	Hedrox1	Hedrox: The human, Jurgen Wulf, is much more than human...	赫德罗克斯：那个人类，尤尔根·武尔夫，早已不只是人类……	
+DE_C2WINDMILL.TXT	20	voice	a3s6_Hedrox1_7.wav	Hedrox1	Hedrox: The human, Jurgen Wulf, is much more than human...	赫德罗克斯：那个人类，尤尔根·沃尔夫，早已不只是人类……	
 DE_C2WINDMILL.TXT	21	voice	a3s6_Hedrox2_7.wav	Hedrox2	Hedrox: There are relics in his body.	赫德罗克斯：他的身体里有遗物。	
 DE_C2WINDMILL.TXT	22	voice	a3s6_Hedrox3_7.wav	Hedrox3	Hedrox: Relics.	赫德罗克斯：遗物。	
 DE_C2WINDMILL.TXT	23	voice	a3s6_Hedrox1_8.wav	Hedrox1	Hedrox: Relics not unlike the one in you, Rayne.	赫德罗克斯：和你体内那件很像的遗物，莱恩。	
@@ -988,12 +988,12 @@ DE_C2WINDMILL.TXT	57	voice	a3s6_Hedrox1_16.wav	HedroxExit0	Hedrox: Hedrox doesn'
 DE_C2WINDMILL.TXT	58	hud	obj_hedrox		Hedrox	赫德罗克斯	
 DE_C2WINDMILL.TXT	59	hud	obj_exit		Chase Hedrox through the broken wall.	穿过破墙，追上赫德罗克斯	
 DE_C2WINDMILL.TXT	60	hud	MissionDescription		The Windmill	风车	
-DE_C3BOSSROOM.TXT	0	hud	MissionDescription		Of Wulfs and Demons	武尔夫与恶魔	
+DE_C3BOSSROOM.TXT	0	hud	MissionDescription		Of Wulfs and Demons	沃尔夫与恶魔	
 DE_C3BOSSROOM.TXT	1	hud	ost_door		This door cannot be opened.	这扇门打不开	
-DE_C3BOSSROOM.TXT	2	hud	c3_bossroom_ob13		Get Beliar's heart away from Hedrox and Wulf.	从赫德罗克斯和武尔夫手中夺回贝利亚之心	
-DE_C3BOSSROOM.TXT	3	hud	c3_bossroom_obj2		Kill Wulf.	杀死武尔夫	
+DE_C3BOSSROOM.TXT	2	hud	c3_bossroom_ob13		Get Beliar's heart away from Hedrox and Wulf.	从赫德罗克斯和沃尔夫手中夺回贝利亚之心	
+DE_C3BOSSROOM.TXT	3	hud	c3_bossroom_obj2		Kill Wulf.	杀死沃尔夫	
 DE_C3BOSSROOM.TXT	4	hud	c3_bossroom_obj3		Kill Beliar.	杀死贝利亚	
-DE_C3BOSSROOM.TXT	5	voice	a3s10_Wulf1.wav	Wulf	Wulf: Give me the heart, Hedrox!	武尔夫：把心交给我，赫德罗克斯！	
+DE_C3BOSSROOM.TXT	5	voice	a3s10_Wulf1.wav	Wulf	Wulf: Give me the heart, Hedrox!	沃尔夫：把心交给我，赫德罗克斯！	
 DE_C3BOSSROOM.TXT	6	voice	a3s10_Hedrox1_1.wav	Hedrox1	Hedrox: No.	赫德罗克斯：不。	
 DE_C3BOSSROOM.TXT	7	voice	a3s10_Hedrox3_1.wav	Hedrox3	Hedrox: No.	赫德罗克斯：不。	
 DE_C3BOSSROOM.TXT	8	voice	a3s10_Hedrox2_1.wav	Hedrox2	Hedrox: Mine.	赫德罗克斯：我的。	
