@@ -1,0 +1,31 @@
+video	source_lang	index	start	end	start_srt	end_srt	source_text	zh_text	note
+INTRO_EN	en	1	11.660	15.900	00:00:11,660	00:00:15,900	Tell me again, why are we in a vampire ghetto after sunset?	我再问一遍，大半夜的我们跑到吸血鬼贫民窟来干什么？	ASR draft; manually split
+INTRO_EN	en	2	16.400	18.200	00:00:16,400	00:00:18,200	Be patient. Wait.	耐心点，等等看。	ASR draft; manually split
+INTRO_EN	en	3	30.000	37.700	00:00:30,000	00:00:37,700	This is the one I've been watching.	就是她，我一直在观察她。	ASR draft; low-volume line
+INTRO_EN	en	4	58.800	62.050	00:00:58,800	00:01:02,050	We have no use for a vampire in our ranks. This is a waste of time.	我们的队伍不需要吸血鬼，这纯粹是在浪费时间。	ASR draft; context fixed
+INTRO_EN	en	5	62.250	66.300	00:01:02,250	00:01:06,300	Not vampire. Half vampire. Fewer weaknesses.	她不是吸血鬼，是半吸血鬼，弱点更少。	ASR draft; context fixed
+INTRO_EN	en	6	66.800	68.200	00:01:06,800	00:01:08,200	She must be fed.	她得进食。	ASR draft; uncertain
+INTRO_EN	en	7	80.200	82.600	00:01:20,200	00:01:22,600	Picked a dangerous place to feed.	她倒是挑了个危险的地方觅食。	ASR draft; uncertain
+INTRO_EN	en	8	82.600	85.800	00:01:22,600	00:01:25,800	She's hunting, looking for her father.	她正在狩猎，也在找她的父亲。	ASR draft; manually split
+INTRO_EN	en	9	93.900	97.500	00:01:33,900	00:01:37,500	The Brimstone Society needs her.	硫磺会需要她。	ASR draft; proper noun fixed
+INTRO_EN	en	10	97.700	101.200	00:01:37,700	00:01:41,200	We will extend the invitation. Time to go.	我们会向她发出邀请的，该走了。	ASR draft; manually split
+INTRO_EN	en	11	105.300	106.700	00:01:45,300	00:01:46,700	Where is he, bitch?	他在哪儿，婊子？	ASR draft
+INTRO_JP	ja	1	11.790	15.910	00:00:11,790	00:00:15,910	こんな時間にバンパイアのスラムで何を探すというのかね	大半夜的，我们跑到吸血鬼贫民窟来，到底是要找什么？	ASR draft; punctuation/spacing normalized
+INTRO_JP	ja	2	17.560	19.720	00:00:17,560	00:00:19,720	じきに分かる。まあ見ててくれ	马上就知道了，看着就行。	ASR draft; kanji typo fixed
+INTRO_JP	ja	3	23.850	24.410	00:00:23,850	00:00:24,410	早く！	快！	ASR draft; background shout
+INTRO_JP	ja	4	27.730	29.570	00:00:27,730	00:00:29,570	さあ立て！ 急ぐんだ！	起来！快走！	ASR draft; uncertain background shout
+INTRO_JP	ja	5	34.640	37.020	00:00:34,640	00:00:37,020	あの娘だ。我々が目をつけていた	就是那女孩，我们一直在盯着她。	ASR draft; context fixed
+INTRO_JP	ja	6	57.860	62.180	00:00:57,860	00:01:02,180	我々にバンパイアなど必要ない。時間の無駄だ	我们不需要吸血鬼，这纯属浪费时间。	ASR draft; long silence trimmed
+INTRO_JP	ja	7	62.180	66.200	00:01:02,180	00:01:06,200	完全なバンパイアではなく、ハーフバンパイアだから弱点もあるな	她不是纯种吸血鬼，是半吸血鬼，弱点也没那么多。	ASR draft; ASR typo fixed
+INTRO_JP	ja	8	66.200	68.200	00:01:06,200	00:01:08,200	今は夕食の時間だ	现在是她的晚餐时间。	ASR draft
+INTRO_JP	ja	9	80.200	82.560	00:01:20,200	00:01:22,560	ずいぶん騒がしいディナーだな	这顿晚餐可真够热闹的。	ASR draft; context fixed
+INTRO_JP	ja	10	82.560	85.520	00:01:22,560	00:01:25,520	狩りを楽しみながら、父親を探しているんだ	她一边狩猎，一边在找自己的父亲。	ASR draft; punctuation normalized
+INTRO_JP	ja	11	93.940	97.640	00:01:33,940	00:01:37,640	ブリムストーン・ソサエティは彼女が必要だ	硫磺会需要她。	ASR draft; proper noun fixed
+INTRO_JP	ja	12	98.120	100.440	00:01:38,120	00:01:40,440	条件の枠を広げようではないか	那就破例邀请她吧。	ASR draft
+INTRO_JP	ja	13	105.660	106.880	00:01:45,660	00:01:46,880	奴はどこにいるんだ？	那家伙在哪儿？	ASR draft
+OUTRO5_EN	en	1	16.560	19.600	00:00:16,560	00:00:19,600	Beliar is finished. You've earned rest, Rayne.	贝利亚已经完了，你该休息了，莱恩。	ASR draft; proper noun fixed
+OUTRO5_EN	en	2	19.840	22.700	00:00:19,840	00:00:22,700	But a new evil grows more powerful even now.	但新的邪恶，此刻正在变得更加强大。	ASR draft
+OUTRO5_EN	en	3	23.340	27.200	00:00:23,340	00:00:27,200	The Brimstone Society has found your father. He must be stopped.	硫磺会已经找到了你父亲的下落，他必须被阻止。	ASR draft; proper noun fixed
+OUTRO5_JP	ja	1	16.210	19.110	00:00:16,210	00:00:19,110	ベリアルが滅び、訪れた平和は儚く	贝利亚已灭，但随之而来的和平转瞬即逝。	ASR draft; punctuation normalized
+OUTRO5_JP	ja	2	19.110	22.050	00:00:19,110	00:00:22,050	新たな悪の力が既に動き始めている	新的邪恶力量，已经开始行动。	ASR draft
+OUTRO5_JP	ja	3	22.530	27.550	00:00:22,530	00:00:27,550	組織がお前の父の行方を知っていることを忘れるな	别忘了，组织已经知道了你父亲的下落。	ASR draft
