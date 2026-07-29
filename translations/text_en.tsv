@@ -434,14 +434,14 @@ AR_MB_BOILER.TXT	8	voice	a2s11_Daemite14.wav	Daemite	Daemite: Work or shower.  W
 AR_MB_BOILER.TXT	9	voice	a2s11_Rayne2.wav	$			
 AR_MB_BOILER.TXT	10	voice	a2s11_Rayne3.wav	$			
 AR_MB_BOILER.TXT	11	voice	a2s11_Daemite15.wav	Daemite	Daemite: Heheheh.	魔蛭：嘿嘿嘿。	
-AR_MB_BOILER.TXT	12	voice	a2s11_Rayne4.wav	$	Rayne: Asshole.  Time to get out of here.	莱恩：混蛋，该离开这里了。	
+AR_MB_BOILER.TXT	12	voice	a2s11_Rayne4.wav	$	Rayne: Asshole.  Time to get out of here.	莱恩：混蛋。该离开这里了。	
 AR_MB_BOILER.TXT	13	voice	a2s11_Rayne5.wav	$	Rayne: Holy shit.  What are they doing down here?	莱恩：我操，他们在下面到底干了什么？	
 AR_MB_BOILER.TXT	14	voice	a2s11_Rayne6.wav	$	"Rayne: You must be the mysterious ""Kommando""."	莱恩：你一定就是那个神秘的“突击队长”。	
 AR_MB_BOILER.TXT	15	voice	a2s11_Rayne7.wav	$	Rayne: I'm sorry.  Was I talking too fast?  Can't keep the words apart?	莱恩：抱歉，我刚才说太快了？一句都没听明白？	
 AR_MB_BOILER.TXT	16	voice	a2s11_Rayne8.wav	$	Rayne: Still thinking about the first thing I said?	莱恩：还在琢磨我说的第一句话？	
 AR_MB_BOILER.TXT	17	voice	a2s11_Rayne9.wav	$	Rayne: I'll talk slower.  Read my lips: you're dead.  Any last words?	莱恩：那我说慢点。看清我的嘴：你、死、定、了。还有遗言吗？	
 AR_MB_BOILER.TXT	18	voice	a2s11_Rayne10.wav	$	Rayne: I tried.	莱恩：好吧，我尽力了。	
-AR_MB_BOILER.TXT	19	voice	a2s11_butcheress1.wav	none	Butcheress: Kommando, Hauptmann Eckstein, rendezvous on the roof!  Our transport will be arriving shortly.	女屠夫：突击队长、埃克施泰因上尉，到屋顶集合！\n运输机很快就到！	
+AR_MB_BOILER.TXT	19	voice	a2s11_butcheress1.wav	none	Butcheress: Kommando, Hauptmann Eckstein, rendezvous on the roof!  Our transport will be arriving shortly.	女屠夫：突击队长、埃克施泰因上尉，到屋顶集合！运输机很快就到！	
 AR_MB_BOILER.TXT	20	voice	a2s11_butcheress2.wav	none	Butcheress: Repeat: meet on the roof immediately.	女屠夫：重复，立即前往屋顶集合！	
 AR_MB_BOILER.TXT	21	voice	a2s11_RoofOff1.wav	RoofOff	Officer: I got you now, bitch!  Prepare for a painful death.	军官：抓到你了，婊子！准备受死吧！	
 AR_MB_BOILER.TXT	22	voice	a2s11_Rayne11.wav	$	Rayne: Sure.  I'm ready.  Just tell me one thing.  What the hell were you guys thinking when you made those things downstairs?	莱恩：好啊，我准备好了。\n不过先回答我一个问题：你们造出楼下那些玩意儿时，到底在想什么？	
@@ -2276,57 +2276,3 @@ MSGLIST.TXT	+	ui-exe			MouseB2	鼠标键 2	exe 硬编码，经 0x4E7840 查表
 MSGLIST.TXT	+	ui-exe			MouseB3	鼠标键 3	exe 硬编码，经 0x4E7840 查表
 MSGLIST.TXT	+	ui-exe			MouseB4	鼠标键 4	exe 硬编码，经 0x4E7840 查表
 MSGLIST.TXT	+	ui-exe			MouseB5	鼠标键 5	exe 硬编码，经 0x4E7840 查表
-MSGLIST.TXT	+	ui			Otto Gottleib	奥托·戈特利布	target-list exe string
-MSGLIST.TXT	+	ui			Stefan Gustafson	斯特凡·古斯塔夫森	target-list exe string
-MSGLIST.TXT	+	ui			J. Becker	J·贝克尔	target-list exe string
-MSGLIST.TXT	+	ui			Ruprecht Reiner	鲁普雷希特·莱纳	target-list exe string
-MSGLIST.TXT	+	ui			Timitheus Tischler	蒂莫特乌斯·蒂施勒	target-list exe string
-MSGLIST.TXT	+	ui			P. Eckstein	P·埃克施泰因	target-list exe string
-MSGLIST.TXT	+	ui			Nicholaus Reinhardt	尼古劳斯·莱因哈特	target-list exe string
-MSGLIST.TXT	+	ui			Braun Mekay	布劳恩·米凯	target-list exe string
-MSGLIST.TXT	+	ui			R. Wauher	R·瓦乌赫	target-list exe string
-MSGLIST.TXT	+	ui			J. A. Cotter	J·A·卡特	target-list exe string
-MSGLIST.TXT	+	ui			D. Mauler	D·穆勒	target-list exe string
-MSGLIST.TXT	+	ui			Dr. Bathory Mengele	巴托里·门格勒博士	target-list exe string
-MSGLIST.TXT	+	ui			Von Blut	冯·布鲁特	target-list exe string
-MSGLIST.TXT	+	ui			Jurgen Wulf	尤尔根·沃尔夫	target-list exe string
-MSGLIST.TXT	+	ui			K. Kephardt	K·凯哈特	target-list exe string
-MSGLIST.TXT	+	ui			C. Reichard	C·莱哈德	target-list exe string
-MSGLIST.TXT	+	ui			D. Von Haber	D·冯·赫伯	target-list exe string
-MSGLIST.TXT	+	ui			G. Saxon	G·萨克森	target-list exe string
-MSGLIST.TXT	+	ui			C. Bogue	C·博格	target-list exe string
-MSGLIST.TXT	+	ui			Arno Samsa	阿尔诺·萨姆萨	target-list exe string
-MSGLIST.TXT	+	ui			N. Rausch	N·劳舍	target-list exe string
-MSGLIST.TXT	+	ui			Hans Eldrich	汉茨·埃尔德里希	target-list exe string
-MSGLIST.TXT	+	ui			Andreas Zahl	安德烈亚斯·扎希	target-list exe string
-MSGLIST.TXT	+	ui			Heinrich Eberhard	海因里希·埃伯哈德	target-list exe string
-MSGLIST.TXT	+	ui			Demetrius Klaus	德米特里乌斯·克劳斯	target-list exe string
-MSGLIST.TXT	+	ui			D. Traugott	D·特劳戈特	target-list exe string
-MSGLIST.TXT	+	ui			G. Gosler	G·戈斯勒	target-list exe string
-MSGLIST.TXT	+	ui			Simon/Sigmund Krieger	西蒙／西格蒙德·克鲁格	target-list exe string
-MSGLIST.TXT	+	ui			Name unknown	（身份不明）	target-list exe string
-MSGLIST.TXT	+	ui			Oberinspekteur	高级监察官	target-list exe string
-MSGLIST.TXT	+	ui			Leutnant	少尉	target-list exe string
-MSGLIST.TXT	+	ui			Standortfuhrer	基地指挥官	target-list exe string
-MSGLIST.TXT	+	ui			Korvettenkapitan	海军少校	target-list exe string
-MSGLIST.TXT	+	ui			Major.	少校	target-list exe string
-MSGLIST.TXT	+	ui			Korvettenoberstleutnant	海军中校	target-list exe string
-MSGLIST.TXT	+	ui			Oberst	上校	target-list exe string
-MSGLIST.TXT	+	ui			General Major	少将	target-list exe string
-MSGLIST.TXT	+	ui			Generalstabsinformationen	总参谋部情报官	target-list exe string
-MSGLIST.TXT	+	ui			Infanterie-Kommandeur	步兵指挥官	target-list exe string
-MSGLIST.TXT	+	ui			Totenkopfverbandefuhrer	骷髅部队指挥官	target-list exe string
-MSGLIST.TXT	+	ui			Oberpriester	大祭司	target-list exe string
-MSGLIST.TXT	+	ui			Gegengrupenfuhrer	反幽灵小组指挥官	target-list exe string
-MSGLIST.TXT	+	ui			Hauptstumfuhrer	突击队长	target-list exe string
-MSGLIST.TXT	+	ui			Assistenzinfanterie	步兵副官	target-list exe string
-MSGLIST.TXT	+	ui			Luftwaffe-Oberleutnant	空军中尉	target-list exe string
-MSGLIST.TXT	+	ui			Oberleutnant	中尉	target-list exe string
-MSGLIST.TXT	+	ui			Hauptmann	上尉	target-list exe string
-MSGLIST.TXT	+	ui			Obersturmbannfuhrer	党卫队中校	target-list exe string
-MSGLIST.TXT	+	ui			Oberstleutnant	中校	target-list exe string
-MSGLIST.TXT	+	ui			Generaloberst	大将	target-list exe string
-MSGLIST.TXT	+	ui			Generalleutnant	中将	target-list exe string
-MSGLIST.TXT	+	ui			Generalstabsuberpanzer	装甲总参谋官	target-list exe string
-MSGLIST.TXT	+	ui			Wehrmachtbefelshaber	国防军指挥官	target-list exe string
-MSGLIST.TXT	+	ui			Oberscharfuhrer	党卫队高级小队长	target-list exe string
