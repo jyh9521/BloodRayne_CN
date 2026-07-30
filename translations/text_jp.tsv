@@ -110,7 +110,7 @@ AR_GH_CHAPEL.TXT	54	hud	ost_Brig		Brig	"""Brig"""	“禁闭室”
 AR_GH_CHAPEL.TXT	55	hud	ost_Chapel		Chapel	"""Chapel"""	“礼拜堂”	
 AR_GH_CHAPEL.TXT	56	hud	ost_key		Found an officer turnkey.	キーを入手した	获得钥匙	
 AR_GH_CHAPEL.TXT	57	hud	ost_RageAttack1		You have gained Rage Attack. Press @@bloodRageButtonName@@ and @@action1ButtonName@@ to execute a powerful Rage Attack.	レイジアタックをマスターした\nレイジアタック:@@bloodRageButtonName@@+@@action1ButtonName@@	已掌握血怒攻击\n血怒攻击：@@bloodRageButtonName@@+@@action1ButtonName@@	
-AR_GH_CHAPEL.TXT	58	hud	ost_RageAttack2		Rage Attacks consume roughly one-third of your Bloodlust energy.	強力なブレード攻撃だが\nブラッドラストゲージの1/3を消耗する	这是一种强力的刀刃攻击，\n但会消耗三分之一的杀戮欲槽	
+AR_GH_CHAPEL.TXT	58	hud	ost_RageAttack2		Rage Attacks consume roughly one-third of your Bloodlust energy.	強力なブレード攻撃だが\nブラッドラストゲージの1/3を消耗する	这是一种强力的刀刃攻击，\n但会消耗三分之一的杀戮欲望槽。	
 AR_GH_CHAPEL.TXT	61	hud	ObjectiveChapel		Eliminate Officer	G.G.G将校を抹殺せよ	消灭反幽灵小组军官	
 AR_GH_CHAPEL.TXT	62	hud	ObjectiveRadio		Transmit relic information to Brimstone Society.	レリックの情報をブリムストーン・ソサエティに報告せよ	向硫磺会报告圣物情报	
 AR_GH_CHAPEL.TXT	63	hud	ObjectiveSearch		Seek out targets in other areas.	次の任務に向え	前往下一个任务区域	
@@ -917,7 +917,7 @@ DE_C2START.TXT	20	voice	a3s3_mynce7.wav	MentorBoss0	Mynce: I would be more conce
 DE_C2START.TXT	21	voice	a3s3_rayne11.wav	$	Rayne: Why'd you betray us?	なぜ裏切ったの？	你为什么要背叛我们？	
 DE_C2START.TXT	22	voice	a3s3_mynce8.wav	MentorBoss0	Mynce: Open your eyes Rayne!  For once.  Can't you see?  You've got to pick your sides more carefully.	目を覚ましてちょうだい レイン！\n自分のこと どこに属すべきか たまには頭を使って考えたらどうなの	醒醒吧，莱恩！\n偶尔也动动脑子，想清楚自己到底该站在哪一边。	
 DE_C2START.TXT	23	voice	a3s3_rayne12.wav	$	Rayne: What about the Brimstone Society?	ブリムストーン・ソサエティのことは\nいいの？	那硫磺会呢？\n你就不管了吗？	
-DE_C2START.TXT	24	voice	a3s3_mynce9.wav	MentorBoss0	Mynce: Shut up and fight, BloodRayne!	かかってきなさい！　ブラッドレイン！	放马过来吧，血莱恩！	
+DE_C2START.TXT	24	voice	a3s3_mynce9.wav	MentorBoss0	Mynce: Shut up and fight, BloodRayne!	かかってきなさい！　ブラッドレイン！	放马过来吧，吸血莱恩！	
 DE_C2START.TXT	25	voice	a3s3_mynce13.wav	MentorBoss0	Mynce: Now we play for keeps.	ここからは真剣勝負よ	接下来可就不是闹着玩的了。	
 DE_C2START.TXT	26	voice	a3s3_rayne15.wav	$	Rayne: Don't make me do this.	こんなことはしたくない	我不想这么做。	
 DE_C2START.TXT	27	voice	a3s3_mynce14.wav	MentorBoss0	Mynce: Aaaaaaaahhhh!			
@@ -1700,10 +1700,10 @@ LA_TRAINING.TXT	42	hud	ost_combo		Perform combos by hitting Blade/Kick @@action1
 LA_TRAINING.TXT	43	hud	ost_swipe		Press @@action1buttonname@@ for level 1 - Quick swipe.	"コンボアタックレベル1""クイックスラッシュ"":@@action1buttonname@@を押す"	1级连击“快速斩击”：按@@action1buttonname@@	
 LA_TRAINING.TXT	44	hud	ost_spin		Press now to trigger level 2 - Spin Kick.	"コンボアタックレベル2""スピンキック"":続けて@@action1buttonname@@を押す"	2级连击“旋身踢”：继续按@@action1buttonname@@	
 LA_TRAINING.TXT	45	voice	a1s2_Rayne5.wav	$	Rayne: Showoff.  Bloodlust satisfied?	この人ったら ほんとに怖いわね	这家伙还真吓人。	
-LA_TRAINING.TXT	46	hud	ost_meter		Attacking enemies fills your Bloodlust meter.  More spectacular attacks fill the meter faster.	Attacking enemies fills your Bloodlust meter.  More spectacular attacks fill the meter faster.	攻击敌人会填充杀戮欲槽。攻击方式越华丽，填充速度越快	
+LA_TRAINING.TXT	46	hud	ost_meter		Attacking enemies fills your Bloodlust meter.  More spectacular attacks fill the meter faster.	Attacking enemies fills your Bloodlust meter.  More spectacular attacks fill the meter faster.	攻击敌人会填充杀戮欲望槽。攻击方式越华丽，填充速度越快	
 LA_TRAINING.TXT	47	voice	a1s2_mynce27.wav	Mynce_StandIn	Mynce: Not bad...	そろそろ私に慣れて	你也该习惯我了。	
 LA_TRAINING.TXT	48	voice	a1s2_mynce28.wav	Mynce_StandIn	Mynce: ...but more to come.  And there's a volunteer.	まだまだ来るわよ\nほら そこにも	还有更多敌人。\n看，那边还有一个。	
-LA_TRAINING.TXT	49	hud	ost_bomb		"Fill your Bloodlust meter to earn a Blood Rage ""bomb""."	"ブラッドラストゲ－ジがたまった時\n""ブラッドレイジ""を発動させることが可能だ"	杀戮欲槽蓄满时，\n可以发动“血怒”	
+LA_TRAINING.TXT	49	hud	ost_bomb		"Fill your Bloodlust meter to earn a Blood Rage ""bomb""."	"ブラッドラストゲ－ジがたまった時\n""ブラッドレイジ""を発動させることが可能だ"	杀戮欲望槽蓄满时，\n可以发动“血怒”	
 LA_TRAINING.TXT	50	hud	ost_rage		Enter Blood Rage @@bloodragebuttonname@@ to gain a speed advantage, increase dismemberment, and perform new attacks.	"@@bloodragebuttonname@@を押して""ブラッドレイジ""を発動させると\n攻撃力とスピードが一時的に上昇する"	按@@bloodragebuttonname@@发动“血怒”后，\n攻击力和速度会暂时提升	
 LA_TRAINING.TXT	51	hud	ost_brspin		Hit @@action1buttonname@@ for level 1 B.R. - Spinning blade.	"ブラッドレイジコンボレベル1""スピニングブレード"":@@action1buttonname@@を押す"	1级血怒连击“旋转刀刃”：按@@action1buttonname@@	
 LA_TRAINING.TXT	52	hud	ost_scissor		Press @@action1buttonname@@ now to trigger level 2 Blood Rage - Scissor Kick.	"ブラッドレイジコンボレベル2""シザーキック"":続けて@@action1buttonname@@を押す"	2级血怒连击“剪刀脚”：继续按@@action1buttonname@@	
@@ -1756,7 +1756,7 @@ MSGLIST.TXT	12	ui			3D Card\tDirectX 8.1 Not Detected	3Dカード\tDirectX 8.1�
 MSGLIST.TXT	13	ui			Restore defaults	初期設定に戻す	恢复默认设置	
 MSGLIST.TXT	14	ui			Play	ゲームを起動	启动游戏	
 MSGLIST.TXT	15	ui			BloodRayne(TM) Setup Options	BloodRayne(TM) 設定オプション	BloodRayne(TM) 设置选项	
-MSGLIST.TXT	16	ui			BloodRayne requires 3D hardward acceleration.	ブラッドレインを動作させるためには3Dグラフィックカードが必要です。	运行《血莱恩》需要3D图形显卡。	
+MSGLIST.TXT	16	ui			BloodRayne requires 3D hardward acceleration.	ブラッドレインを動作させるためには3Dグラフィックカードが必要です。	运行《吸血莱恩》需要3D图形显卡。	
 MSGLIST.TXT	17	ui			This CPU does not have an MMX unit.	お使いのパソコンのCPUはMMXに対応していません。	您的计算机CPU不支持MMX。	
 MSGLIST.TXT	18	ui			Windows is reporting 	Windows is reporting 	Windows报告的系统内存为	
 MSGLIST.TXT	19	ui			MB of system RAM.	MB of system RAM.	MB。	
@@ -1900,7 +1900,7 @@ MSGLIST.TXT	156	ui			Panzerfaust	パンツァーファウスト	铁拳反坦克�
 MSGLIST.TXT	157	ui			Head	アタマ角	阿塔玛角	
 MSGLIST.TXT	158	ui			M1918 GAR	M1918 GAR	M1918 GAR	
 MSGLIST.TXT	159	ui			Gun	銃	枪械	
-MSGLIST.TXT	160	ui			Please install BloodRayne to your hard drive	'ブラッドレイン'をインストールしてください。	请安装《血莱恩》。	
+MSGLIST.TXT	160	ui			Please install BloodRayne to your hard drive	'ブラッドレイン'をインストールしてください。	请安装《吸血莱恩》。	
 MSGLIST.TXT	161	ui			Loading...	ロード中...	正在载入……	
 MSGLIST.TXT	162	ui			You need to feed.	生き血をすすれ	痛饮鲜血	
 MSGLIST.TXT	163	ui			Press @@bloodragebuttonname@@ to activate Blood Rage.	@@bloodragebuttonname@@を押してブラッドレイジ発動	按@@bloodragebuttonname@@发动血怒	
@@ -2100,9 +2100,9 @@ MSGLIST.TXT	356	ui			Enemies	敵の移動	敌人移动
 MSGLIST.TXT	357	ui			Thawed	自由	自由	
 MSGLIST.TXT	358	ui			Frozen	拘束	定身	
 MSGLIST.TXT	359	ui			Restore health	体力回復	恢复生命值	
-MSGLIST.TXT	360	ui			Fill bloodlust	ブラッドラスト回復	恢复杀戮欲	
+MSGLIST.TXT	360	ui			Fill bloodlust	ブラッドラスト回復	恢复杀戮欲望	
 MSGLIST.TXT	361	ui			Show weapons on body	携行する武器を表示	显示携带武器	
-MSGLIST.TXT	362	ui			Juggy mode	ジャギーモード	锯齿模式	
+MSGLIST.TXT	362	ui			Juggy mode	ジャギーモード	Juggy模式	
 MSGLIST.TXT	363	ui			Gratuitous dismemberment	リッパーモード	肢解模式	
 MSGLIST.TXT	364	ui			Enter Cheat Code	チートコードを入力してください	请输入作弊码	
 MSGLIST.TXT	365	ui			Your Xbox has %s free.  You need at least 9 blocks free to save games.	Your Xbox has %s free.  You need at least 9 blocks free to save games.	您的Xbox有%s可用空间。保存游戏至少需要9个区块。	
@@ -2393,7 +2393,7 @@ MSGLIST.TXT	649	ui			You need help.	お前は治療が必要だな。	我看你�
 MSGLIST.TXT	650	ui			I think that's against the law...	それは合法ですか？	那合法吗？	
 MSGLIST.TXT	651	ui			Is that possible?	そんなことができるのでしょうか？	真的能做到那种事吗？	
 MSGLIST.TXT	652	ui			I didn't need to know that.	私はそんなこと知る必要ない。	我没必要知道那种事。	
-MSGLIST.TXT	653	ui			Maybe in BloodRayne 2.	それはブラッドレイン2で期待してください。	请期待《血莱恩2》。	
+MSGLIST.TXT	653	ui			Maybe in BloodRayne 2.	それはブラッドレイン2で期待してください。	请期待《吸血莱恩2》。	
 MSGLIST.TXT	654	ui			God mode not-activated	ゴッドモードが使用可能になりませんでした。	无法启用无敌模式。	
 MSGLIST.TXT	655	ui			The one about the banana and the Easter Bunny?	チートコードが間違っています	作弊码错误	
 MSGLIST.TXT	656	ui			That's why I play games	だから、私はゲームを楽しんでいる。	所以我才在玩游戏。	

@@ -773,7 +773,7 @@ DE_C1BROKENFRONT_B.TXT	23	voice	a3s1_soldier2_23.wav	BellTowerSoldier2	Lookout S
 DE_C1BROKENFRONT_B.TXT	24	voice	a3s1_soldier2_24.wav	BellTowerSoldier2	Lookout Soldier 2: Sir!  No answer!	瞭望兵2：长官！没有回应！	
 DE_C1BROKENFRONT_B.TXT	25	voice	a3s1_soldier1_24.wav	BellTowerSoldier1	Lookout Soldier 1: Jesus Christ, what is going on?  Be ready for anything men!	瞭望兵1：天哪，到底出了什么事？所有人做好应付任何情况的准备！	
 DE_C1BROKENFRONT_B.TXT	26	voice	a3s1_BarricadedOfficer_2.wav	NaziOfficer5	Officer: Hmmmm...hmmm...	军官：嗯……嗯……	
-DE_C1BROKENFRONT_B.TXT	27	voice	a3s1_PhoneVoice_1.wav	none	Radio Voice: Mobile armor securing cathedral.  Opening secondary upper entrance.  Mobilize foot units and prepare infantry support.	无线电声音：机动装甲部队正在控制大教堂，上层备用入口即将开启。\n步兵单位立即出动，准备提供支援。	
+DE_C1BROKENFRONT_B.TXT	27	voice	a3s1_PhoneVoice_1.wav	none	Radio Voice: Mobile armor securing cathedral.  Opening secondary upper entrance.  Mobilize foot units and prepare infantry support.	无线电声音：机甲部队正在控制大教堂，上层备用入口即将开启。\n步兵单位立即出动，准备提供支援。	
 DE_C1BROKENFRONT_B.TXT	28	voice	a3s1_PhoneVoice_2.wav	none	Radio Voice: Repeat. Secondary upper entrance is open.  Mobilize and enter.	无线电声音：重复，上层备用入口已经开启。各单位立即集结进入。	
 DE_C1BROKENFRONT_B.TXT	29	voice	a3s1_rayne17.wav	$	Rayne: I hear you.  I'll be there in a minute.	莱恩：听到了。我马上过去。	
 DE_C1BROKENFRONT_B.TXT	30	voice	a3s1_PhoneVoice_3.wav	none	Radio Voice: Wha...?  Who is this?	无线电声音：什……？你是谁？	
@@ -782,70 +782,70 @@ DE_C1BROKENFRONT_B.TXT	32	hud	MissionDescription		Old Gaustadt	旧高施塔特
 DE_C1BROKENFRONT_B.TXT	33	hud	ost_Bell		Hit the bell.	敲响大钟	
 DE_C1CASTLE.TXT	0	hud	ost_mechOfficer1		Super Tank Lieutenant General G. Gosler: Eliminated.	超级坦克中将G.戈斯勒已消灭	
 DE_C1CASTLE.TXT	1	hud	ost_objective		Eliminate Officer	消灭军官	
-DE_C1CASTLE.TXT	2	hud	ost_firstObjective		Neutralize the Mobile Armor Unit.	摧毁机动装甲部队	
+DE_C1CASTLE.TXT	2	hud	ost_firstObjective		Neutralize the Mobile Armor Unit.	摧毁机甲部队	
 DE_C1CASTLE.TXT	3	hud	ost_secondObjective		Proceed to the main cathedral.	前往主教堂	
-DE_C1CASTLE.TXT	4	hud	ost_thirdObjective		Eliminate enemy Mobile Armor Units.	消灭敌方机动装甲	
+DE_C1CASTLE.TXT	4	hud	ost_thirdObjective		Eliminate enemy Mobile Armor Units.	消灭敌方机甲	
 DE_C1CASTLE.TXT	5	voice	a3s2_rayne1.wav	none	Rayne: Oh yeah!  What are those!?	莱恩：哦，太棒了！那些是什么玩意儿？	
-DE_C1CASTLE.TXT	6	voice	a3s2_rayne2.wav	none	Rayne: I want one.	莱恩：我也要一台。	
-DE_C1CASTLE.TXT	7	voice	a3s2_MechPilot1_1.wav	none	Mobile Armor Pilot: Get off me!  Stop!	机动装甲驾驶员：从我身上下来！住手！	
-DE_C1CASTLE.TXT	8	voice	a3s2_mechOfficer1.wav	none	Mobile Armor Officer: Hold your positions men.  Units 1 and 4 patrol zones according to plan.	机动装甲军官：各单位坚守位置。1号和4号机按计划巡逻各自区域。	
-DE_C1CASTLE.TXT	9	voice	a3s2_mechOfficer2.wav	none	Mobile Armor Officer: Do you copy, Birken?	机动装甲军官：伯肯，收到没有？	
-DE_C1CASTLE.TXT	10	voice	a3s2_MechPilot2_1.wav	none	Mobile Armor Pilot: I copy!	机动装甲驾驶员：收到！	
-DE_C1CASTLE.TXT	11	voice	a3s2_MechPilot1_2.wav	none	Mobile Armor Pilot: Let's see how those vampires like feeding on a little German ingenuity...and mouthful of rockets.	机动装甲驾驶员：让那些吸血鬼尝尝德国人的智慧……再吃上一嘴火箭弹。	
-DE_C1CASTLE.TXT	12	voice	a3s2_mechOfficer3.wav	none	Mobile Armor Officer: Keep the frequency clear!  Stay focused people!	机动装甲军官：保持频道畅通！都给我集中精神！	
-DE_C1CASTLE.TXT	13	voice	a3s2_mechOfficer4.wav	none	Mobile Armor Officer: Proceed systematically.  Secure the area, then move on.	机动装甲军官：按程序推进。先控制区域，再继续前进。	
-DE_C1CASTLE.TXT	14	voice	a3s2_mechOfficer5.wav	none	Mobile Armor Officer: And keep your radios open, I want to stay informed.	机动装甲军官：无线电保持开启，我要随时掌握情况。	
-DE_C1CASTLE.TXT	15	voice	a3s2_MechPilot1_3.wav	none	Mobile Armor Pilot: Unit 3, you're in my zone.	机动装甲驾驶员：3号机，你闯进我的区域了。	
-DE_C1CASTLE.TXT	16	voice	a3s2_mechOfficer6.wav	none	Mobile Armor Commander: Unit 3, REMAIN IN YOUR ZONE!  Do you copy, Unit 3?  Answer me, Unit 3!	机动装甲指挥官：3号机，留在你的区域！听到了吗，3号机？回答我！	
-DE_C1CASTLE.TXT	17	voice	a3s2_MechPilot1_4.wav	none	Mobile Armor Pilot: Pull back, Unit 3!  I'm in the line of fire!	机动装甲驾驶员：3号机，退后！你挡住我的射界了！	
+DE_C1CASTLE.TXT	6	voice	a3s2_rayne2.wav	none	Rayne: I want one.	莱恩：我也想要一台。	
+DE_C1CASTLE.TXT	7	voice	a3s2_MechPilot1_1.wav	none	Mobile Armor Pilot: Get off me!  Stop!	机甲驾驶员：从我身上下来！住手！	
+DE_C1CASTLE.TXT	8	voice	a3s2_mechOfficer1.wav	none	Mobile Armor Officer: Hold your positions men.  Units 1 and 4 patrol zones according to plan.	机甲军官：各单位坚守位置，1号和4号机按计划巡逻各自区域。	
+DE_C1CASTLE.TXT	9	voice	a3s2_mechOfficer2.wav	none	Mobile Armor Officer: Do you copy, Birken?	机甲军官：伯肯，收到没有？	
+DE_C1CASTLE.TXT	10	voice	a3s2_MechPilot2_1.wav	none	Mobile Armor Pilot: I copy!	机甲驾驶员：收到！	
+DE_C1CASTLE.TXT	11	voice	a3s2_MechPilot1_2.wav	none	Mobile Armor Pilot: Let's see how those vampires like feeding on a little German ingenuity...and mouthful of rockets.	机甲驾驶员：\n让那些吸血鬼尝尝德国人的智慧……\n再吃上一嘴火箭弹。	
+DE_C1CASTLE.TXT	12	voice	a3s2_mechOfficer3.wav	none	Mobile Armor Officer: Keep the frequency clear!  Stay focused people!	机甲军官：保持频道畅通！都给我集中精神！	
+DE_C1CASTLE.TXT	13	voice	a3s2_mechOfficer4.wav	none	Mobile Armor Officer: Proceed systematically.  Secure the area, then move on.	机甲军官：按程序推进。先控制区域，再继续前进。	
+DE_C1CASTLE.TXT	14	voice	a3s2_mechOfficer5.wav	none	Mobile Armor Officer: And keep your radios open, I want to stay informed.	机甲军官：保持开启无线电，我要随时掌握情况。	
+DE_C1CASTLE.TXT	15	voice	a3s2_MechPilot1_3.wav	none	Mobile Armor Pilot: Unit 3, you're in my zone.	机甲驾驶员：3号机，你闯进我的区域了。	
+DE_C1CASTLE.TXT	16	voice	a3s2_mechOfficer6.wav	none	Mobile Armor Commander: Unit 3, REMAIN IN YOUR ZONE!  Do you copy, Unit 3?  Answer me, Unit 3!	机甲指挥官：\n3号机，留在你的区域！\n听到了吗，3号机？回答我！	
+DE_C1CASTLE.TXT	17	voice	a3s2_MechPilot1_4.wav	none	Mobile Armor Pilot: Pull back, Unit 3!  I'm in the line of fire!	机甲驾驶员：\n3号机，退后！你挡住我的射击范围了！	
 DE_C1CASTLE.TXT	18	voice	a3s2_rayne3.wav	none	Rayne: That's the plan.	莱恩：我就是故意的。	
-DE_C1CASTLE.TXT	19	voice	a3s2_MechPilot1_5.wav	none	Mobile Armor Pilot: What!?	机动装甲驾驶员：什么！？	
-DE_C1CASTLE.TXT	20	voice	a3s2_mechOfficer7.wav	none	Mobile Armor Commander: All units! Unit 3 has been commandeered!  All units attack!  I repeat, all units attack Unit 3!  Unit 3 is rogue!	机动装甲指挥官：所有单位注意！3号机已被敌人夺取！全体攻击！\n重复，所有单位攻击3号机！3号机已经叛变！	
-DE_C1CASTLE.TXT	21	voice	a3s2_MechPilot1_6.wav	none	Mobile Armor Pilot: Who is this in unit 3?	机动装甲驾驶员：3号机里到底是谁？	
+DE_C1CASTLE.TXT	19	voice	a3s2_MechPilot1_5.wav	none	Mobile Armor Pilot: What!?	机甲驾驶员：什么！？	
+DE_C1CASTLE.TXT	20	voice	a3s2_mechOfficer7.wav	none	Mobile Armor Commander: All units! Unit 3 has been commandeered!  All units attack!  I repeat, all units attack Unit 3!  Unit 3 is rogue!	机甲指挥官：\n所有单位注意！3号机已被敌人夺取！全体攻击！\n重复，所有单位攻击3号机！3号机已经叛变！	
+DE_C1CASTLE.TXT	21	voice	a3s2_MechPilot1_6.wav	none	Mobile Armor Pilot: Who is this in unit 3?	机甲驾驶员：3号机里到底是谁？	
 DE_C1CASTLE.TXT	22	voice	a3s2_rayne4.wav	none	Rayne: Just a girl wanting to play with the boys.	莱恩：一个想和男孩子们玩玩的姑娘。	
-DE_C1CASTLE.TXT	23	voice	a3s2_MechPilot2_2.wav	none	Mobile Armor Pilot: For Christ's sake...it's a woman!	机动装甲驾驶员：见鬼……是个女人！	
-DE_C1CASTLE.TXT	24	voice	a3s2_MechPilot3_1.wav	none	Mobile Armor Pilot: Jesus.	机动装甲驾驶员：我的天。	
-DE_C1CASTLE.TXT	25	voice	a3s2_MechPilot2_3.wav	none	Mobile Armor Pilot: A woman can't operate a mobile armor.	机动装甲驾驶员：女人根本不会开机动装甲。	
+DE_C1CASTLE.TXT	23	voice	a3s2_MechPilot2_2.wav	none	Mobile Armor Pilot: For Christ's sake...it's a woman!	机甲驾驶员：见鬼……是个女人！	
+DE_C1CASTLE.TXT	24	voice	a3s2_MechPilot3_1.wav	none	Mobile Armor Pilot: Jesus.	机甲驾驶员：我的天。	
+DE_C1CASTLE.TXT	25	voice	a3s2_MechPilot2_3.wav	none	Mobile Armor Pilot: A woman can't operate a mobile armor.	机甲驾驶员：女人根本不会开机甲。	
 DE_C1CASTLE.TXT	26	voice	a3s2_rayne5.wav	none	Rayne: You're gonna want to rethink that one Fritz.	莱恩：德国佬，你最好重新想想这句话。	
-DE_C1CASTLE.TXT	27	voice	a3s2_MechPilot2_4.wav	none	Mobile Armor Pilot: You're dead.	机动装甲驾驶员：你死定了。	
-DE_C1CASTLE.TXT	28	voice	a3s2_MechPilot1_7.wav	none	Mobile Armor Pilot: Hit her!  Give her some hell!	机动装甲驾驶员：打她！给她点厉害瞧瞧！	
-DE_C1CASTLE.TXT	29	voice	a3s2_mechOfficer8.wav	none	Mobile Armor Commander: Attack formation!  Do not let up!	机动装甲指挥官：组成攻击阵形！别停火！	
-DE_C1CASTLE.TXT	30	voice	a3s2_MechPilot3_2.wav	none	Mobile Armor Pilot: Come on, sweetheart.  Do you look as good as you sound?	机动装甲驾驶员：来吧，宝贝。你长得有声音这么好听吗？	
-DE_C1CASTLE.TXT	31	voice	a3s2_MechPilot2_6.wav	none	Mobile Armor Pilot: She won't in a second.	机动装甲驾驶员：马上就不好看了。	
+DE_C1CASTLE.TXT	27	voice	a3s2_MechPilot2_4.wav	none	Mobile Armor Pilot: You're dead.	机甲驾驶员：你死定了。	
+DE_C1CASTLE.TXT	28	voice	a3s2_MechPilot1_7.wav	none	Mobile Armor Pilot: Hit her!  Give her some hell!	机甲驾驶员：打她！给她点厉害瞧瞧！	
+DE_C1CASTLE.TXT	29	voice	a3s2_mechOfficer8.wav	none	Mobile Armor Commander: Attack formation!  Do not let up!	机甲指挥官：组成攻击阵形！别停火！	
+DE_C1CASTLE.TXT	30	voice	a3s2_MechPilot3_2.wav	none	Mobile Armor Pilot: Come on, sweetheart.  Do you look as good as you sound?	机甲驾驶员：\n来吧，宝贝。\n你长得有声音这么好听吗？	
+DE_C1CASTLE.TXT	31	voice	a3s2_MechPilot2_6.wav	none	Mobile Armor Pilot: She won't in a second.	机甲驾驶员：马上就不好看了。	
 DE_C1CASTLE.TXT	32	voice	a3s2_rayne6.wav	none	Rayne: Even on my worst day I look better than you two.	莱恩：我状态最差的时候，也比你们两个好看。	
-DE_C1CASTLE.TXT	33	voice	a3s2_MechPilot2_7.wav	none	Mobile Armor Pilot: You know, I've had about enough of you!	机动装甲驾驶员：我受够你了！	
+DE_C1CASTLE.TXT	33	voice	a3s2_MechPilot2_7.wav	none	Mobile Armor Pilot: You know, I've had about enough of you!	机甲驾驶员：我受够你了！	
 DE_C1CASTLE.TXT	34	voice	a3s2_rayne7.wav	none	Rayne: Now you sound serious.	莱恩：这回听着倒挺认真。	
-DE_C1CASTLE.TXT	35	voice	a3s2_mechOfficer10.wav	none	Mobile Armor Commander: Somebody put a sock in her!	机动装甲指挥官：谁来堵住她的嘴！	
-DE_C1CASTLE.TXT	36	voice	a3s2_MechPilot1_8.wav	none	Mobile Armor Pilot: I'm going to cut you down.	机动装甲驾驶员：我要把你撕碎。	
-DE_C1CASTLE.TXT	37	voice	a3s2_rayne8.wav	none	Rayne: Yeah, yeah.  And the other one will blow me to hell.  What, do you guys read the same comic books?	莱恩：对，对。另一个还要把我炸上天。你们是不是看同一本漫画学的台词？	
-DE_C1CASTLE.TXT	38	voice	a3s2_MechPilot3_3.wav	none	Mobile Armor Pilot: I will...dammit.  Over and out.	机动装甲驾驶员：我会……该死。通话结束。	
-DE_C1CASTLE.TXT	39	voice	a3s2_rayne9.wav	none	Rayne: Tell ya what...I'll only use my left hand.  I could close my eyes, too.  We should be about even then.	莱恩：这样吧……我只用左手。眼睛也可以闭上。这样应该就公平了。	
-DE_C1CASTLE.TXT	40	voice	a3s2_mechOfficer11.wav	none	Mobile Armor Commander: Your joking will end soon.	机动装甲指挥官：你很快就笑不出来了。	
+DE_C1CASTLE.TXT	35	voice	a3s2_mechOfficer10.wav	none	Mobile Armor Commander: Somebody put a sock in her!	机甲指挥官：谁来堵住她的嘴！	
+DE_C1CASTLE.TXT	36	voice	a3s2_MechPilot1_8.wav	none	Mobile Armor Pilot: I'm going to cut you down.	机甲驾驶员：我要把你撕碎。	
+DE_C1CASTLE.TXT	37	voice	a3s2_rayne8.wav	none	Rayne: Yeah, yeah.  And the other one will blow me to hell.  What, do you guys read the same comic books?	莱恩：对，对。\n另一个还要把我炸上天。\n你们是不是看同一本漫画学的台词？	
+DE_C1CASTLE.TXT	38	voice	a3s2_MechPilot3_3.wav	none	Mobile Armor Pilot: I will...dammit.  Over and out.	机甲驾驶员：\n我会……该死。通话结束。	
+DE_C1CASTLE.TXT	39	voice	a3s2_rayne9.wav	none	Rayne: Tell ya what...I'll only use my left hand.  I could close my eyes, too.  We should be about even then.	莱恩：这样吧……我只用左手，眼睛也可以闭上。\n这样应该就公平了。	
+DE_C1CASTLE.TXT	40	voice	a3s2_mechOfficer11.wav	none	Mobile Armor Commander: Your joking will end soon.	机甲指挥官：你很快就笑不出来了。	
 DE_C1CASTLE.TXT	41	voice	a3s2_rayne10.wav	none	Rayne: But I haven't even told you the one about the banana and the Easter Bunny.	莱恩：可我还没讲香蕉和复活节兔子的笑话呢。	
-DE_C1CASTLE.TXT	42	voice	a3s2_MechPilot2_8.wav	none	Mobile Armor Pilot: Shoot her legs out from under her!	机动装甲驾驶员：打断她的腿！	
+DE_C1CASTLE.TXT	42	voice	a3s2_MechPilot2_8.wav	none	Mobile Armor Pilot: Shoot her legs out from under her!	机甲驾驶员：打断她的腿！	
 DE_C1CASTLE.TXT	43	voice	a3s2_rayne11.wav	none	Rayne: You guys have been aiming?	莱恩：你们刚才一直在瞄准？	
 DE_C1CASTLE.TXT	44	voice	a3s2_rayne12.wav	none	Rayne: Too easy!  I'm dealing with amateurs.	莱恩：太简单了！原来都是些菜鸟。	
-DE_C1CASTLE.TXT	45	voice	a3s2_MechPilot2_9.wav	none	Mobile Armor Pilot: Birken's down!	机动装甲驾驶员：伯肯被干掉了！	
-DE_C1CASTLE.TXT	46	voice	a3s2_MechPilot2_10.wav	none	Mobile Armor Pilot: She's hit Langenfeld!	机动装甲驾驶员：她打中了朗根费尔德！	
-DE_C1CASTLE.TXT	47	voice	a3s2_RadioVoice_8.wav	none	Radio Voice: Leutnant Grueber to Generalstabsuberpanzer Gosler: bridge to the second castle has been breached.	无线电声音：格鲁伯中尉呼叫总参谋部超级装甲指挥官戈斯勒：\n通往第二座城堡的桥已被突破。	
+DE_C1CASTLE.TXT	45	voice	a3s2_MechPilot2_9.wav	none	Mobile Armor Pilot: Birken's down!	机甲驾驶员：伯肯被干掉了！	
+DE_C1CASTLE.TXT	46	voice	a3s2_MechPilot2_10.wav	none	Mobile Armor Pilot: She's hit Langenfeld!	机甲驾驶员：她打中了朗根费尔德！	
+DE_C1CASTLE.TXT	47	voice	a3s2_RadioVoice_8.wav	none	Radio Voice: Leutnant Grueber to Generalstabsuberpanzer Gosler: bridge to the second castle has been breached.	无线电声音：\n格鲁伯中尉呼叫总参谋部超级装甲指挥官戈斯勒：\n通往第二座城堡的桥已被突破。	
 DE_C1CASTLE.TXT	48	voice	a3s2_RadioVoice_9.wav	none	Radio Voice: The lift at the top of the cathedral has been activated.	无线电声音：大教堂顶部的升降机已经启动。	
 DE_C1CASTLE.TXT	49	voice	a3s2_RadioVoice_10.wav	none	Radio Voice: Jetpack troops mobilize!  Exercise extreme caution!	无线电声音：喷气背包部队出动！务必提高警惕！	
-DE_C1CASTLE.TXT	50	voice	a3s2_mechOfficer12.wav	none	Radio Voice: Stand by!  We have a rogue mobile armor unit.  Repeat, we have a rogue!	无线电声音：各单位待命！有一台机动装甲失控。重复，有一台机动装甲失控！	
+DE_C1CASTLE.TXT	50	voice	a3s2_mechOfficer12.wav	none	Radio Voice: Stand by!  We have a rogue mobile armor unit.  Repeat, we have a rogue!	无线电声音：\n各单位待命！有一台机甲失控。\n重复，有一台机甲失控！	
 DE_C1CASTLE.TXT	51	voice	a3s2_RadioVoice_11.wav	none	Radio Voice: Oh my God.	无线电声音：我的天。	
 DE_C1CASTLE.TXT	52	voice	a3s2_RadioVoice_12.wav	none	Radio Voice: Fall back!  Fall back!	无线电声音：撤退！快撤！	
 DE_C1CASTLE.TXT	53	voice	a3s2_rayne13.wav	none	Rayne: Attack.  Fall back.  Mobilize.  Which one is it?	莱恩：进攻、撤退、出动……到底要我干哪个？	
 DE_C1CASTLE.TXT	54	voice	a3s2_rayne14.wav	none	Rayne: Rayne three, Krauts zero.	莱恩：莱恩三分，德国佬零分。	
-DE_C1CASTLE.TXT	55	voice	a3s2_MechPilot2_11.wav	none	Mobile Armor Pilot 2: She got Logau!  Call headquarters!	机动装甲驾驶员2：她干掉洛高了！快联系总部！	
-DE_C1CASTLE.TXT	56	voice	a3s2_rayne15.wav	none	Rayne: Say boys, I'm running out of targets.  Anymore like you at home?	莱恩：我说，各位，我都快没目标了。你们家里还有同款吗？	
+DE_C1CASTLE.TXT	55	voice	a3s2_MechPilot2_11.wav	none	Mobile Armor Pilot 2: She got Logau!  Call headquarters!	机甲驾驶员2：她干掉洛高了！快联系总部！	
+DE_C1CASTLE.TXT	56	voice	a3s2_rayne15.wav	none	Rayne: Say boys, I'm running out of targets.  Anymore like you at home?	莱恩：\n我说，各位，我都快没目标了。\n你们家里还有同款吗？	
 DE_C1CASTLE.TXT	57	voice	a3s2_rayne16.wav	none	Rayne: Just you and me, Gosler.	莱恩：现在只剩你和我了，戈斯勒。	
-DE_C1CASTLE.TXT	58	voice	a3s2_mechOfficer13.wav	none	Mobile Armor Officer: Who are you?  How do you know my name?	机动装甲军官：你是谁？你怎么知道我的名字？	
-DE_C1CASTLE.TXT	59	voice	a3s2_rayne17.wav	none	Rayne: I've got a shopping list.  And we fresh ran out of Gosler.  The others were just for fun.	莱恩：我有张购物清单，上面正好还缺一个戈斯勒。其他人只是顺手收拾。	
-DE_C1CASTLE.TXT	60	voice	a3s2_mechOfficer14.wav	none	Mobile Armor Officer: Don't kill me.  I'll give you what you want.  You want the plans for our mobile armor?  Anything.  Just name it!	机动装甲军官：别杀我！你要什么我都给！想要机动装甲的设计图吗？\n什么都行，你尽管说！	
-DE_C1CASTLE.TXT	61	voice	a3s2_rayne18.wav	none	Rayne: Good.  Here it is: you listening?	莱恩：很好。听清楚了吗？	
-DE_C1CASTLE.TXT	62	voice	a3s2_mechOfficer15.wav	none	Mobile Armor Officer: Yes, I am listening.	机动装甲军官：听着，我在听。	
+DE_C1CASTLE.TXT	58	voice	a3s2_mechOfficer13.wav	none	Mobile Armor Officer: Who are you?  How do you know my name?	机甲军官：你是谁？你怎么知道我的名字？	
+DE_C1CASTLE.TXT	59	voice	a3s2_rayne17.wav	none	Rayne: I've got a shopping list.  And we fresh ran out of Gosler.  The others were just for fun.	莱恩：\n我这儿有张采购清单，戈斯勒这货刚好断货了。\n至于其他几个嘛，只是顺手找点乐子。	
+DE_C1CASTLE.TXT	60	voice	a3s2_mechOfficer14.wav	none	Mobile Armor Officer: Don't kill me.  I'll give you what you want.  You want the plans for our mobile armor?  Anything.  Just name it!	机甲军官：\n别杀我！你要什么我都给！\n想要机甲的设计图吗？\n什么都行，你尽管说！	
+DE_C1CASTLE.TXT	61	voice	a3s2_rayne18.wav	none	Rayne: Good.  Here it is: you listening?	莱恩：\n很好。那我说了：你听着呢吗？	
+DE_C1CASTLE.TXT	62	voice	a3s2_mechOfficer15.wav	none	Mobile Armor Officer: Yes, I am listening.	机甲军官：是的，我在听。	
 DE_C1CASTLE.TXT	63	voice	a3s2_rayne19.wav	none	Rayne: I want you dead.	莱恩：我要你死。	
 DE_C1CASTLE.TXT	64	voice	a6s1_rayne167.wav	$	Rayne: Uh oh, it's overheating.  Better bail out.	莱恩：糟了，快过热了。得赶紧跳出去。	
-DE_C1CASTLE.TXT	65	voice	a3s2_rayne20.wav	$	Rayne: I wish I could take that thing with me.  But it's too cumbersome for where I'm going.	莱恩：真想把这东西一起带走，可我要去的地方实在容不下它。	
+DE_C1CASTLE.TXT	65	voice	a3s2_rayne20.wav	$	Rayne: I wish I could take that thing with me.  But it's too cumbersome for where I'm going.	莱恩：\n真想把这东西一起带走，可我要去的地方实在容不下它。	
 DE_C1CASTLE.TXT	66	voice	a3s2_Soldier1_1.wav	SoldierJPGflee0	Soldier 1: God, what is it?	士兵1：天哪，那是什么？	
 DE_C1CASTLE.TXT	67	voice	a3s2_Soldier2_1.wav	SoldierJPGflee1	Soldier 2: Scheisse!  We're in trouble!	士兵2：该死！麻烦大了！	
 DE_C1CASTLE.TXT	68	voice	a3s2_Soldier3_13.wav	SoldierJPGflee0	Soldier 3: Watch out!  Move!	士兵3：小心！快躲开！	
@@ -856,12 +856,12 @@ DE_C1CASTLE.TXT	72	voice	a6s1_rayne187.wav	none	Rayne: He's gonna blow!	莱恩�
 DE_C1CASTLE.TXT	73	voice	a3s2_rayne21.wav	$	Rayne: I can't jump that far.	莱恩：我跳不了那么远。	
 DE_C1CASTLE.TXT	74	voice	a1s0_Rayne18a.wav	$	Rayne: I'm done there.	莱恩：那边已经处理完了。	
 DE_C1CASTLE.TXT	75	voice	a1s0_Rayne13b.wav	$	Rayne: Won't budge.	莱恩：纹丝不动。	
-DE_C1CASTLE.TXT	76	hud	OST_MechInstructions		Jump on top of the Mobile Armor Unit to gain control of it.	跳到机动装甲顶部，即可夺取控制权	
-DE_C1CASTLE.TXT	77	hud	OST_MechControl1		Control the Mobile Armor Unit the same way you control BloodRayne.	机动装甲的操作方式与莱恩相同	
+DE_C1CASTLE.TXT	76	hud	OST_MechInstructions		Jump on top of the Mobile Armor Unit to gain control of it.	跳到机甲顶部，即可夺取控制权	
+DE_C1CASTLE.TXT	77	hud	OST_MechControl1		Control the Mobile Armor Unit the same way you control BloodRayne.	机甲的操作方式与莱恩相同	
 DE_C1CASTLE.TXT	78	hud	OST_MechControl2		Hold @@action1buttonname@@ to activate the chain gun.  Press @@action2buttonname@@ to fire the rocket launcher.  Press @@harpoonbitebuttonname@@ to launch a grenade.	按住@@action1buttonname@@启动链式机枪。按@@action2buttonname@@发射火箭弹。按@@harpoonbitebuttonname@@投射榴弹	
-DE_C1CASTLE.TXT	79	hud	ost_ExitMech		Move towards the altar to exit the Mobile Armor Unit.	走向祭坛，离开机动装甲	
-DE_C1CASTLE.TXT	80	hud	obj_mechOfficer1		G.G.G. - Mobile Armor Major General G. Gosler	反幽灵小组——机动装甲少将G.戈斯勒	
-DE_C1CASTLE.TXT	81	hud	obj_mechExit		Move towards the altar to exit the Mobile Armor Unit.	走向祭坛，离开机动装甲	
+DE_C1CASTLE.TXT	79	hud	ost_ExitMech		Move towards the altar to exit the Mobile Armor Unit.	离开机甲，走向祭坛	
+DE_C1CASTLE.TXT	80	hud	obj_mechOfficer1		G.G.G. - Mobile Armor Major General G. Gosler	反幽灵小组——机甲少将G.戈斯勒	
+DE_C1CASTLE.TXT	81	hud	obj_mechExit		Move towards the altar to exit the Mobile Armor Unit.	离开机甲，走向祭坛	
 DE_C1CASTLE.TXT	82	hud	obj_bridgeExit		Climb the scaffolding to find the exit.	爬上脚手架，寻找出口	
 DE_C1CASTLE.TXT	83	hud	MissionDescription		Unholy Mecha	邪秽机甲	
 DE_C2COURTYARD.TXT	0	hud	obj_officer1		1st Lieutenant Arno Samsa	阿尔诺·萨姆萨中尉	
@@ -984,7 +984,7 @@ DE_C2WINDMILL.TXT	53	voice	a5s1_rayne26.wav	$	Rayne: Ah, but there's lots more w
 DE_C2WINDMILL.TXT	54	voice	a5s1_rayne27.wav	$	Rayne: You wanna call em?  Or, how 'bout you cut some more of yourself right now?	莱恩：要不要把它们叫来？或者你现在再把自己多切几块？	
 DE_C2WINDMILL.TXT	55	voice	a5s1_rayne28.wav	$	Rayne: I will kill you over and over until there are none of you left.	莱恩：我会一遍又一遍地杀你，直到一个都不剩。	
 DE_C2WINDMILL.TXT	56	voice	a5s1_rayne29.wav	$	Rayne: One, two, twenty, a thousand.  You always equal zero to me, Hedrox.	莱恩：一个、两个、二十个、一千个。对我来说，加起来永远都是零，赫德罗克斯。	
-DE_C2WINDMILL.TXT	57	voice	a3s6_Hedrox1_16.wav	HedroxExit0	Hedrox: Hedrox doesn't need Rayne.  Hedrox will change someone else's mind...	赫德罗克斯：赫德罗克斯不需要莱恩，赫德罗克斯会去给别人换换脑子……	
+DE_C2WINDMILL.TXT	57	voice	a3s6_Hedrox1_16.wav	HedroxExit0	Hedrox: Hedrox doesn't need Rayne.  Hedrox will change someone else's mind...	赫德罗克斯：\n赫德罗克斯不需要莱恩，\n赫德罗克斯会去给别人换换脑子……	
 DE_C2WINDMILL.TXT	58	hud	obj_hedrox		Hedrox	赫德罗克斯	
 DE_C2WINDMILL.TXT	59	hud	obj_exit		Chase Hedrox through the broken wall.	穿过破墙，追上赫德罗克斯	
 DE_C2WINDMILL.TXT	60	hud	MissionDescription		The Windmill	风车	
@@ -1155,7 +1155,7 @@ DE_C3DOME.TXT	108	voice	a3s9_rayne9.wav	$	Rayne: So why haven't you killed Wulf 
 DE_C3DOME.TXT	109	voice	a3s9_mynce11.wav	Mynce	Mynce: It's not that easy.  He's almost invincible with all the relics in his body.	明斯：没那么容易。他体内有那么多圣物，几乎已经无敌了。	
 DE_C3DOME.TXT	110	voice	a3s9_mynce12.wav	Mynce	Mynce: He has the ribs from Louisiana, an eye like yours, a hand, and teeth.	明斯：他有从路易斯安那得到的肋骨、和你一样的一只眼睛，还有一只手和牙齿。	
 DE_C3DOME.TXT	111	voice	a3s9_mynce13.wav	Mynce	Mynce: But we can't let him get Beliar's heart.  It's the most dangerous piece.	明斯：但绝不能让他拿到贝利亚之心，那是最危险的部分。	
-DE_C3DOME.TXT	112	voice	a3s9_rayne10.wav	$	Rayne: Hedrox already has it-	莱恩：赫德罗克斯已经拿到了 -	
+DE_C3DOME.TXT	112	voice	a3s9_rayne10.wav	$	Rayne: Hedrox already has it-	莱恩：赫德罗克斯已经拿到了。	
 DE_C3DOME.TXT	113	voice	a3s9_mynce14.wav	Mynce	Mynce: What!?	明斯：什么！？	
 DE_C3DOME.TXT	114	voice	a3s9_rayne11.wav	$	"Rayne: I don't think he knows how to use it though.  He's looking for officers to ""interrogate""."	莱恩：不过他好像还不知道怎么用，他正在找军官“审问”。	
 DE_C3DOME.TXT	115	voice	a3s9_mynce15.wav	Mynce	Mynce: I thought the relic was automatic.	明斯：我还以为圣物会自动生效。	
@@ -1163,18 +1163,18 @@ DE_C3DOME.TXT	116	voice	a3s9_rayne12.wav	$	Rayne: I did too.  But nothing happen
 DE_C3DOME.TXT	117	voice	a3s9_mynce16.wav	Mynce	Mynce: We need to get that thing away from him and Wulf.  The heart can awaken the demon himself, and we can't let that happen.	明斯：我们得赶在沃尔夫前面，从赫德罗克斯手里抢走它。\n那颗心能唤醒贝利亚，绝不能让这种事发生。	
 DE_C3DOME.TXT	118	voice	a3s9_mynce20.wav	Mynce	Mynce: Aargh!	明斯：呃啊！	
 DE_C3DOME.TXT	119	voice	a3s9_rayne13.wav	$	Rayne: Mynce!	莱恩：明斯！	
-DE_C3DOME.TXT	120	voice	a3s9_Wulf5.wav	Wulf	Wulf: No one crosses me, ever.  Especially not a bastard vampire.  I am Jurgen Wulf.	沃尔夫：从来没人能背叛我，尤其是你这种杂种吸血鬼，我可是尤尔根·沃尔夫。	
-DE_C3DOME.TXT	121	voice	a3s9_Wulf6.wav	Wulf	Wulf: And I will soon hold the heart of Beliar and become immortal.  I will be God.	沃尔夫：我很快就会得到贝利亚之心，获得永生。我将成为神！	
+DE_C3DOME.TXT	120	voice	a3s9_Wulf5.wav	Wulf	Wulf: No one crosses me, ever.  Especially not a bastard vampire.  I am Jurgen Wulf.	沃尔夫：\n从来没人能背叛我，\n尤其是你这种杂种吸血鬼，\n我可是尤尔根·沃尔夫。	
+DE_C3DOME.TXT	121	voice	a3s9_Wulf6.wav	Wulf	Wulf: And I will soon hold the heart of Beliar and become immortal.  I will be God.	沃尔夫：\n我很快就会得到贝利亚之心，获得永生。\n我将成为神！	
 DE_C3DOME.TXT	122	voice	a3s9_rayne14.wav	$	Rayne: You bastard!	莱恩：你这个混蛋！	
 DE_C3DOME.TXT	123	voice	a3s9_Wulf7.wav	Wulf	Wulf: Such hatred.  Such fear.	沃尔夫：多么强烈的仇恨，多么浓烈的恐惧。	
-DE_C3DOME.TXT	124	voice	a3s9_rayne15.wav	$	Rayne: I'm going to make you pay for this.  You hear me?  You'll pay for this!	莱恩：我会让你付出代价的！听见没有？我一定会让你付出代价！	
+DE_C3DOME.TXT	124	voice	a3s9_rayne15.wav	$	Rayne: I'm going to make you pay for this.  You hear me?  You'll pay for this!	莱恩：\n我会让你付出代价的！\n听见没有？我一定会让你付出代价！	
 DE_C3DOME.TXT	125	voice	a3s9_Wulf8.wav	Wulf	Wulf: Yes!  Let the rage burn, Rayne.  Feed it.	沃尔夫：对！让怒火燃烧吧，莱恩，让它越烧越旺。	
 DE_C3DOME.TXT	126	voice	a3s9_rayne16.wav	$	Rayne: Go to hell!	莱恩：下地狱去吧！	
 DE_C3DOME.TXT	127	voice	a3s9_Wulf9.wav	Wulf	Wulf: Why do you think I haven't killed you yet?	沃尔夫：你以为我为什么一直没杀你？	
 DE_C3DOME.TXT	128	voice	a3s9_rayne17.wav	$	Rayne: That's gonna be your biggest mistake you son of a bitch!	莱恩：那会是你这辈子犯过最大的错，狗杂种！	
-DE_C3DOME.TXT	129	voice	a3s9_Wulf10.wav	Wulf	Wulf: Hedrox waits in the cathedral.  You will join us?	沃尔夫：赫德罗克斯正在大教堂等着呢，你也要来吗？	
-DE_C3DOME.TXT	130	voice	a3s9_Wulf11.wav	Wulf	Wulf: You both have something I want.	沃尔夫：你们两个身上，都有我想要的东西。	
-DE_C3DOME.TXT	131	voice	a3s9_rayne18.wav	$	Rayne: I'll kill you, Wulf!  Do you hear me?  I'll pull you to pieces!	莱恩：我会杀了你，沃尔夫！听见没有？我要把你撕成碎片！	
+DE_C3DOME.TXT	129	voice	a3s9_Wulf10.wav	Wulf	Wulf: Hedrox waits in the cathedral.  You will join us?	沃尔夫：\n赫德罗克斯正在大教堂等着呢，\n你也要来吗？	
+DE_C3DOME.TXT	130	voice	a3s9_Wulf11.wav	Wulf	Wulf: You both have something I want.	沃尔夫：\n你们两个身上，\n都有我想要的东西。	
+DE_C3DOME.TXT	131	voice	a3s9_rayne18.wav	$	Rayne: I'll kill you, Wulf!  Do you hear me?  I'll pull you to pieces!	莱恩：\n我会杀了你，沃尔夫！\n听见没有？我要把你撕成碎片！	
 DE_C3DOME.TXT	132	voice	a3s9_rayne19.wav	$	Rayne: Mynce!  Oh Jesus Mynce.  Please tell me you're somehow faking this.	莱恩：明斯！老天。明斯，求求你告诉我，这次也是装出来的。	
 DE_C3DOME.TXT	133	voice	a3s9_rayne20.wav	$	Rayne: Tell me!	莱恩：快告诉我！	
 DE_C3DOME.TXT	134	voice	a6s1_rayne193.wav	$	Rayne: Mynce! Oh, Jesus. Mynce.	莱恩：明斯……天啊，明斯。	
@@ -2070,9 +2070,9 @@ MSGLIST.TXT	326	ui			Thawed	已解冻
 MSGLIST.TXT	327	ui			Frozen	已冻结	
 MSGLIST.TXT	328	ui			Restore health	恢复生命值	
 MSGLIST.TXT	329	ui			Fill bloodlust	填满血怒槽	
-MSGLIST.TXT	330	ui			Show weapons on body	在身体上显示武器	
+MSGLIST.TXT	330	ui			Show weapons on body	在身体上挂满武器	
 MSGLIST.TXT	331	ui			Juggy mode	Juggy 模式	
-MSGLIST.TXT	332	ui			Gratuitous dismemberment	残肢效果	
+MSGLIST.TXT	332	ui			Gratuitous dismemberment	增强断肢效果	
 MSGLIST.TXT	333	ui			Enter Cheat Code	输入作弊码	
 MSGLIST.TXT	334	ui			Your Xbox has %s free.  You need at least 9 blocks free to save games.	你的 Xbox 有 %s 可用空间，保存游戏至少需要 9 个区块。	
 MSGLIST.TXT	335	ui			Launch Xbox Dashboard to free blocks	启动 Xbox 控制面板以释放区块	
